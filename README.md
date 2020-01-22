@@ -22,7 +22,7 @@ Plans provide stakeholders:
 - The risks - Opportunities & threats
 - Issues with the definition of the scope
 - Which people, specialist equipment & resources are needed
-- Are targets for time, cost, quality, scope, risk & benefits achievable
+- Are targets for time, cost, quality, scope, risk & benefits achievable (the 6 aspects of performance)
 
 Plans need to contain:
 
