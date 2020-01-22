@@ -38,6 +38,16 @@ Plans provide stakeholders:
 - Which people, specialist equipment & resources are needed
 - Are targets for time, cost, quality, scope, risk & benefits achievable (the 6 aspects of performance)
 
+## Stage Plan
+
+Defined as:
+
+> A detailed plan used as a basis for project management control throughout a management stage.
+
+## Team Plan
+
+Cover the wotk of the team during a stage and are optional.
+
 Plans need to contain:
 
 - What has to be produced
