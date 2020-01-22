@@ -57,6 +57,19 @@ Plans need to contain:
 - How progress will be monitored 
 - What has to be don’t to control risks
 
+# Management Stages
+
+### 2 minimum stages
+
+- Initiation (thinking)
+- Rest of the project (doing)
+
+You could align management stages with delivery stages, such as design, build and test.
+
+Delivery stages may overlap each other (build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, 2, 4)). 
+
+Tyically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
+
 ## Product Based Planning
 
 ### Order
@@ -96,10 +109,14 @@ External Product = Ellipse/Circle
 
 Time flows in one direction, either from top to bottom or left to right.
 
+# 7 Planning Steps
+S3-3P6
 
-# Management Stages
-Initiation
-Rest of the project
+
+
+
+
+
 
 
 
