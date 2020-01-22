@@ -19,7 +19,16 @@ Prince 2 Project Management Notes
 Project Plan
 Stage Plan
 Team Plan
++
 Exception Plan
+
+## Project Plan
+
+A high-level view of the full project, comprosing of key milestones, resource requirements and overall cost and time estimates.
+
+Defined as:
+
+> A high-level plan showing the major products of the project, when they will be delivered and at what cost. An initial Project Plan is presented as part of the project initiation documentation or PID. This is revised as information on actual progress appears,  It is a major control documentation for the Project Board to measure actual progress against expectation.
 
 Plans provide stakeholders:
 
@@ -40,10 +49,12 @@ Plans need to contain:
 
 ## Product Based Planning
 
-1 - Project Product Description
-2 - Product Breakdown Structure (PBS)
-3 - Product Description
-4 - Product Flow Diagram 
+### Order
+
+1 Project Product Description
+2 Product Breakdown Structure (PBS)
+3 Product Description
+4 Product Flow Diagram (Link between product based planning and activity based planning)
 
 ### Project Product Description
 
@@ -75,6 +86,10 @@ External Product = Ellipse/Circle
 
 Time flows in one direction, either from top to bottom or left to right.
 
+
+# Management Stages
+Initiation
+Rest of the project
 
 
 
