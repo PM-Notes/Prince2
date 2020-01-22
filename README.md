@@ -1,9 +1,9 @@
 # prince2
 Prince 2 Project Management Notes
 
-## Project Performance
+# Project Performance
 
-### 6 aspects of project performance to be managed
+## 6 aspects of project performance to be managed
 
 - Time (Duration of the project)
 - Cost (Project budget)
@@ -12,9 +12,9 @@ Prince 2 Project Management Notes
 - Risk (things not going to plan, positive or negative, threats or opportunities) 
 - Benefits (Measurable improvement in BAU because of the project)
 
-## Themes
+# Themes
 
-### Plans
+## Plans (Theme)
 
 Project Plan
 Stage Plan
@@ -44,7 +44,7 @@ Defined as:
 
 > A detailed plan used as a basis for project management control throughout a management stage.
 
-## Team Plan
+## Team Plan (optional)
 
 Cover the wotk of the team during a stage and are optional.
 
@@ -56,6 +56,9 @@ Plans need to contain:
 - When will it be produced
 - How progress will be monitored 
 - What has to be don’t to control risks
+
+## Exception Plan
+
 
 # Management Stages
 
@@ -110,9 +113,12 @@ External Product = Ellipse/Circle
 
 Time flows in one direction, either from top to bottom or left to right.
 
-# 7 Planning Steps
+## 7 Planning Steps
 S3-3P6
 
+## Risk (Theme)
+
+9 risk principles
 
 
 
