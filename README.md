@@ -16,6 +16,11 @@ Prince 2 Project Management Notes
 
 ### Plans
 
+Project Plan
+Stage Plan
+Team Plan
+Exception Plan
+
 Plans provide stakeholders:
 
 - What products need to be delivered
@@ -32,6 +37,23 @@ Plans need to contain:
 - When will it be produced
 - How progress will be monitored 
 - What has to be don’t to control risks
+
+## Product Based Planning
+### Product Description
+Headings | Description
+-------- | ---------
+Identifier | A unique key
+Title | The name by whitch the product is known
+Purpose | Why do we need this product
+Composotion | What will make up the product
+Derivation | Where will the product come from
+Format & Presentation | What form will it take
+Development Skills Required | What skills will be required
+Quality Criteria | What are the key quality factors
+Quality Tolerance | Is the quality ofjhte product accepptable
+Qualiy Method | How will quality be judged
+Quality Skills Required | Who is qualified to check the product
+Quality Responsibilities | Who are the Producers, Reviewers & Approvers
 
 
 
