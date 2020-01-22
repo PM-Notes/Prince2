@@ -51,10 +51,10 @@ Plans need to contain:
 
 ### Order
 
-1 Project Product Description
-2 Product Breakdown Structure (PBS)
-3 Product Description
-4 Product Flow Diagram (Link between product based planning and activity based planning)
+1. Project Product Description
+2. Product Breakdown Structure (PBS)
+3. Product Description
+4. Product Flow Diagram (Link between product based planning and activity based planning)
 
 ### Project Product Description
 
