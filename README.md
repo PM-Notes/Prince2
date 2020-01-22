@@ -39,7 +39,18 @@ Plans need to contain:
 - What has to be don’t to control risks
 
 ## Product Based Planning
+
+1 - Project Product Description
+2 - Product Breakdown Structure (PBS)
+3 - Product Description
+4 - Product Flow Diagram 
+
+### Project Product Description
+
+### Product Breakdown Structure (PBS)
+
 ### Product Description
+
 Headings | Description
 -------- | ---------
 Identifier | A unique key
@@ -54,6 +65,21 @@ Quality Tolerance | Is the quality ofjhte product accepptable
 Qualiy Method | How will quality be judged
 Quality Skills Required | Who is qualified to check the product
 Quality Responsibilities | Who are the Producers, Reviewers & Approvers
+
+### Product Flow Diagram
+
+The Product Creation Sequence is depicted in the Product Flow Diagram which is used to show the order in which products must be created.
+
+Product = Rectangle
+External Product = Ellipse/Circle
+
+Time flows in one direction, either from top to bottom or left to right.
+
+
+
+
+
+
 
 
 
