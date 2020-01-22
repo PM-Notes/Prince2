@@ -22,7 +22,7 @@ Team Plan
 +
 Exception Plan
 
-## Project Plan
+## Project Plan (for the whole of the project)
 
 A high-level view of the full project, comprosing of key milestones, resource requirements and overall cost and time estimates.
 
@@ -38,7 +38,7 @@ Plans provide stakeholders:
 - Which people, specialist equipment & resources are needed
 - Are targets for time, cost, quality, scope, risk & benefits achievable (the 6 aspects of performance)
 
-## Stage Plan
+## Stage Plan (for each management stage)
 
 Defined as:
 
@@ -70,14 +70,15 @@ Delivery stages may overlap each other (build and training may overlap somewhat,
 
 Tyically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
 
-## Product Based Planning
+## Product Based Planning (use for all plans)
 
-### Order
+### 4 Products must be produces and maintained (in Order)
 
 1. Project Product Description
 2. Product Breakdown Structure (PBS)
 3. Product Description
-4. Product Flow Diagram (Link between product based planning and activity based planning)
+4. Plan
+5. *Recommended* Product Flow Diagram (Link between product based planning and activity based planning)
 
 ### Project Product Description
 
