@@ -30,7 +30,7 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "A project can be part of a portfollio of strategic objectives"
 
-# Principles 
+# 7 Principles 
 
 1. Continued business justification (Business Case)
 2. Learn from experience (learn from previous projects or previous management stages)
@@ -63,19 +63,19 @@ Benefits of Managing by Stages
 - Clarifying the impact of external influences on the project before the go-ahead is given
 - Delegating authority to the Project Manager on a stage by stage basis - *Management by Exception*
 
-5. Manage by exception
+5. Manage by exception (Tollerances are set for each aspect of performance, Cost, Time, Scope, Quality, Risk, Benefits. If within tollerances o need to meet.  Immediately escalate when forecast is expected to exceed a tollerance).
 6. Focus on products
 7. Tailor to suit the project
 
 # Themes
 
-## Plans (Theme)
+## 3 Plans (Theme)
 
-Project Plan
-Stage Plan
-Team Plan
+1. Project Plan
+2. Stage Plan
+3. Team Plan
 +
-Exception Plan
+4. Exception Plan
 
 ## Project Plan (for the whole of the project)
 
