@@ -35,8 +35,27 @@ A project can be standalone or part of a programme (and as such subject to the p
 1. Continued business justification (Business Case)
 2. Learn from experience (learn from previous projects or previous management stages)
 3. Defined roles and responsibilities (Stakeholders - Business Sponsors, Users, Suppliers (int/ext))
-4. Manage by stages (discreet sequential stages)
+4. Manage by stages (discreet sequential stages, do a little work, review, do a little more, review and so on until completion.)
+
 > "The section of the project the Project Manager is managing on behalf of the Project Board at any one time, at the end of which the Project Board will wish to review progress to date, the state of the project plan, the business case and risks, and the next stage plan, in order to decide whether to continue the project"
+
+## Management Stages
+
+### 2 stages minimum
+
+- Initiation (thinking)
+- Rest of the project (doing)
+
+You could align management stages with delivery stages, such as design, build and test.
+
+Delivery stages may overlap each other (build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, 2, 4)). 
+
+Typically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
+
+The number of stages will depend on the size and complexity of the project, the risk, organisational standard and policies and where significant decisions are needed usually before a major commitment is made, such as awarding a contract.
+
+Smaller stages offer more control to the project board who are the key decision makers, but also required more effort on their part.
+
 5. Manage by exception
 6. Focus on products
 7. Tailor to suit the project
