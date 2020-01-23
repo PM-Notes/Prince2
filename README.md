@@ -184,4 +184,16 @@ S3-3P6
 
 9 risk principles
 
+# Processes (7)
+
+Num | Process| Description
+------ | ------ | ------
+1 | SU Starting Up a project | Do we have a viable and worthwhile project?
+2 | IP Initiating a Project | Initiation activities
+3 | CS Controlling a Stage | Used by PM alocate work and monitor and control progress 
+4 | MP Managing Product delivery | Used by delivery teams to accept the work, complete it and hand it back
+5 | SB Managing a Stage Boundary | Used by PM to plan the work of the next management stage
+6 | CP Closing a Project | Used by the PM to handover the projects products to the Customer and close the project 
+7 | DP Direcing a Project | Used by the Project Board to make decisions and provide advice and guidance
+
 
