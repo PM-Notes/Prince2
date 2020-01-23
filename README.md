@@ -32,10 +32,11 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 # Principles 
 
-1. Continued business justification
-2. Learn from experience
-3. Defined roles and responsibilities
-4. Manage by stages
+1. Continued business justification (Business Case)
+2. Learn from experience (learn from previous projects or previous management stages)
+3. Defined roles and responsibilities (Stakeholders - Business Sponsors, Users, Suppliers (int/ext))
+4. Manage by stages (discreet sequential stages)
+> "The section of the project the Project Manager is managing on behalf of the Project Board at any one time, at the end of which the Project Board will wish to review progress to date, the state of the project plan, the business case and risks, and the next stage plan, in order to decide whether to continue the project"
 5. Manage by exception
 6. Focus on products
 7. Tailor to suit the project
