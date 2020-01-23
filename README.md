@@ -92,7 +92,7 @@ Benefits of Focus on products
 6. Change
 7. Progress
 
-# | Theme | Description
+Num | Theme | Description
 ------ | ------ | ------
 1 | Business Case | Why are we doing the project?
 2 | Organisation | Who is involved, what are their responsibilities?
