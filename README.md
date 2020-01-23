@@ -92,6 +92,16 @@ Benefits of Focus on products
 6. Change
 7. Progress
 
+Theme | Description
+------ | ------
+Business Case | Why are we doing the project?
+Organisation | Who is involved, what are their responsibilities?
+Quality | What are the quality requirements and how will they be judged?
+Plans | What, when and how much?
+Risk | What may or may not happen that may affect the projects objectives?
+Change | What impact does an issue have? How will it be dealt with?
+Progress | Where are we now? Where will we be?
+
 ## 3 Plans (Theme)
 
 1. Project Plan
