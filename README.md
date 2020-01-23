@@ -30,7 +30,7 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "A project can be part of a portfollio of strategic objectives"
 
-# 7 Principles 
+# Principles (7) 
 
 1. Continued business justification (Business Case)
 2. Learn from experience (learn from previous projects or previous management stages)
@@ -39,14 +39,12 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "The section of the project the Project Manager is managing on behalf of the Project Board at any one time, at the end of which the Project Board will wish to review progress to date, the state of the project plan, the business case and risks, and the next stage plan, in order to decide whether to continue the project"
 
-### Management Stages
-
-*2 stages minimum*
+### Management Stages (2 minumum)
 
 - Initiation (thinking)
 - Rest of the project (doing)
 
-You could align management stages with delivery stages, such as design, build and test.
+Management stages could be aligned with delivery stages, such as design, build and test.
 
 Delivery stages may overlap each other, i.e. build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, mgmt-stg-2, mgmt-stg-3, mgmt-stg-4). 
 
