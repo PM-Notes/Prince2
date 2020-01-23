@@ -84,14 +84,6 @@ Benefits of Focus on products
 
 # Themes (7)
 
-1. Business Case
-2. Organisation
-3. Quality
-4. Plans
-5. Risk
-6. Change
-7. Progress
-
 Num | Theme | Description
 ------ | ------ | ------
 1 | Business Case | Why are we doing the project?
@@ -102,7 +94,7 @@ Num | Theme | Description
 6 | Change | What impact does an issue have? How will it be dealt with?
 7 | Progress | Where are we now? Where will we be?
 
-## 3 Plans (Theme)
+## Plans (3) 
 
 1. Project Plan
 2. Stage Plan
@@ -148,7 +140,7 @@ Plans need to contain:
 ## Exception Plan
 
 
-# Management Stages
+## Management Stages
 
 ### 2 minimum stages
 
@@ -204,7 +196,7 @@ Time flows in one direction, either from top to bottom or left to right.
 ## 7 Planning Steps
 S3-3P6
 
-## Risk (Theme)
+# Risk 
 
 9 risk principles
 
