@@ -17,7 +17,7 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "A programme is a group of related projects which deliver outcomes and benefits related to the organisations strategy"
 
-> "A project can be part of a portfollio of strategic objectives"
+> "A project can be part of a portfolio of strategic objectives"
 
 # Project Performance (6)
 
@@ -39,7 +39,7 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "The section of the project the Project Manager is managing on behalf of the Project Board at any one time, at the end of which the Project Board will wish to review progress to date, the state of the project plan, the business case and risks, and the next stage plan, in order to decide whether to continue the project"
 
-## Management Stages (2 minumum)
+## Management Stages (2 minimum)
 
 - Initiation (thinking)
 - Rest of the project (doing)
@@ -61,14 +61,14 @@ Benefits of Managing by Stages
 - Clarifying the impact of external influences on the project before the go-ahead is given
 - Delegating authority to the Project Manager on a stage by stage basis - *Management by Exception*
 
-5. Manage by exception (Tollerances are set for each aspect of performance, Cost, Time, Scope, Quality, Risk, Benefits. If within tollerances o need to meet.  Immediately escalate when forecast is expected to exceed a tollerance).
-6. Focus on products (focus on definitaion, delivery and quality requirements of products)
+5. Manage by exception (Tolerances are set for each aspect of performance, Cost, Time, Scope, Quality, Risk, Benefits. If within tolerances o need to meet.  Immediately escalate when forecast is expected to exceed a tolerance).
+6. Focus on products (focus on definition, delivery and quality requirements of products)
 
 > Products = Outputs = Deliverables
 
 > "A product is an input or output, whether tangible or intangible, that can be described in advance, created and tested".
 
-*Managment Products* - Required and created to manage the project
+*Management Products* - Required and created to manage the project
 *Specialist Products* - Created by the project to satisfy the business need
 
 Benefits of Focus on products
@@ -190,10 +190,10 @@ Num | Process| Description
 ------ | ------ | ------
 1 | SU Starting Up a project | Do we have a viable and worthwhile project?
 2 | IP Initiating a Project | Initiation activities
-3 | CS Controlling a Stage | Used by PM alocate work and monitor and control progress 
+3 | CS Controlling a Stage | Used by PM allocate work and monitor and control progress 
 4 | MP Managing Product delivery | Used by delivery teams to accept the work, complete it and hand it back
 5 | SB Managing a Stage Boundary | Used by PM to plan the work of the next management stage
 6 | CP Closing a Project | Used by the PM to handover the projects products to the Customer and close the project 
-7 | DP Direcing a Project | Used by the Project Board to make decisions and provide advice and guidance
+7 | DP Directing a Project | Used by the Project Board to make decisions and provide advice and guidance
 
 
