@@ -41,25 +41,25 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 ### Management Stages
 
-### 2 stages minimum
+*2 stages minimum*
 
 - Initiation (thinking)
 - Rest of the project (doing)
 
 You could align management stages with delivery stages, such as design, build and test.
 
-Delivery stages may overlap each other (build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, 2, 4)). 
+Delivery stages may overlap each other, i.e. build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, mgmt-stg-2, mgmt-stg-3, mgmt-stg-4). 
 
-Typically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
+Typically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-stg-1, training staff in mgmt-stg-2).
 
-The number of stages will depend on the size and complexity of the project, the risk, organisational standard and policies and where significant decisions are needed usually before a major commitment is made, such as awarding a contract.
+The number of stages will depend on the size and complexity of the project, the risk, organisational standard and policies and where significant decisions are needed usually before a major commitment is made, such as *awarding a contract*.
 
 Smaller stages offer more control to the project board who are the key decision makers, but also required more effort on their part.
 
 Benefits of Managing by Stages
 - Making sure the project is properly initiated before work starts
 - Giving the Project Board the opportunity to assess the projects viability at defined intervals
-- Making sure key decisions are made before the work starts (suchh as awarding contracts)
+- Making sure key decisions are made before the work starts (such as awarding contracts)
 - Clarifying the impact of external influences on the project before the go-ahead is given
 - Delegating authority to the Project Manager on a stage by stage basis - *Management by Exception*
 
@@ -82,14 +82,22 @@ Benefits of Focus on products
 
 7. Tailor to suit the project
 
-# Themes
+# Themes (7)
+
+1. Business Case
+2. Organisation
+3. Quality
+4. Plans
+5. Risk
+6. Change
+7. Progress
 
 ## 3 Plans (Theme)
 
 1. Project Plan
 2. Stage Plan
 3. Team Plan
-+
+
 4. Exception Plan
 
 ## Project Plan (for the whole of the project)
