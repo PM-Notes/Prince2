@@ -64,7 +64,15 @@ Benefits of Managing by Stages
 - Delegating authority to the Project Manager on a stage by stage basis - *Management by Exception*
 
 5. Manage by exception (Tollerances are set for each aspect of performance, Cost, Time, Scope, Quality, Risk, Benefits. If within tollerances o need to meet.  Immediately escalate when forecast is expected to exceed a tollerance).
-6. Focus on products
+6. Focus on products (focus on definitaion, delivery and quality requirements of products)
+
+> Products = Outputs = Deliverables
+
+> "A product is an input or output, whether tangible or intangible, that can be described in advance, created and tested".
+
+*Managment Products* - Required and created to manage the project
+*Specialist Products* - Created by the project to satisfy the business need
+
 7. Tailor to suit the project
 
 # Themes
