@@ -1,5 +1,5 @@
 # Prince2
-Prince2 Foundation Project Management Notes
+Prince2 Foundation Notes
 
 - Principles (7)
 - Themes (7) 
