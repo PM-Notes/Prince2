@@ -73,6 +73,13 @@ Benefits of Managing by Stages
 *Managment Products* - Required and created to manage the project
 *Specialist Products* - Created by the project to satisfy the business need
 
+Benefits of Focus on products
+- Ensures the project only undertakes work that directly contributes to the delivery of a product
+- Helps manage uncontrolled change ny ensuring that all changes are reviewed before being accepted
+- Reduces the risk of user complaints and disputes by establising the deliverables at the start of the project.
+
+> Product Descriptions are used to clearly define the product
+
 7. Tailor to suit the project
 
 # Themes
