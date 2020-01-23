@@ -28,6 +28,18 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "A programme is a group of related projects which deliver outcomes and benefits related to the organisations strategy"
 
+> "A project can be part of a portfollio of strategic objectives"
+
+# Principles 
+
+1. Continued business justification
+2. Learn from experience
+3. Defined roles and responsibilities
+4. Manage by stages
+5. Manage by exception
+6. Focus on products
+7. Tailor to suit the project
+
 # Themes
 
 ## Plans (Theme)
