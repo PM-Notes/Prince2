@@ -1,16 +1,32 @@
-# prince2
-Prince 2 Project Management Notes
+# Prince2
+Prince2 Foundation Project Management Notes
+
+- Principles (7)
+- Themes (7) 
+- Proceses (7)
 
 # Project Performance
 
 ## 6 aspects of project performance to be managed
 
-- Time (Duration of the project)
-- Cost (Project budget)
-- Quality (defines the standards which the delivered scope must meet to be fit for purpose)
-- Scope (everything needed to buy/build and all the work involved in doing it.  Also what is out of scope to set stakeholders expectations. 
-- Risk (things not going to plan, positive or negative, threats or opportunities) 
-- Benefits (Measurable improvement in BAU because of the project)
+1. Scope (everything needed to buy/build and all the work involved in doing it.  Also include what is out of scope to set stakeholders expectations.
+2. Quality (defines the standards which the delivered scope must meet to be fit for purpose)
+3. Risk (things might not go to plan, positive or negative, threats or opportunities) 
+4. Cost (Project budget)
+6. Time (Duration of the project)
+6. Benefits (Measurable improvement in BAU because of the project)
+
+# A Project
+
+Prince2 assumes there will be a Customer who specifies the desired results and a Supplier who provides resources and skills to deliver these results.
+
+> Customer Supplier Environment
+
+The organisation that commissions a project is *Corporate*, *Programme Mgmt* or the *Customer*.  They are also responsible for governance and realising the projects benefits.
+
+A project can be standalone or part of a programme (and as such subject to the programmes governance, structure & reporting requirements).
+
+> "A programme is a group of related projects which deliver outcomes and benefits related to the organisations strategy"
 
 # Themes
 
@@ -24,7 +40,7 @@ Exception Plan
 
 ## Project Plan (for the whole of the project)
 
-A high-level view of the full project, comprosing of key milestones, resource requirements and overall cost and time estimates.
+A high-level view of the full project, comprising of key milestones, resource requirements and overall cost and time estimates.
 
 Defined as:
 
@@ -46,7 +62,7 @@ Defined as:
 
 ## Team Plan (optional)
 
-Cover the wotk of the team during a stage and are optional.
+Covers the work of the team during a stage and are optional.
 
 Plans need to contain:
 
@@ -71,7 +87,7 @@ You could align management stages with delivery stages, such as design, build an
 
 Delivery stages may overlap each other (build and training may overlap somewhat, but management stages are always sequential (mgmt-stg-1, 2, 4)). 
 
-Tyically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
+Typically you can break up the delivery stage that crosses management stage boundaries into smaller chunks (training syllabus in mgmt-1, training staff in mgmt-2).
 
 ## Product Based Planning (use for all plans)
 
@@ -92,15 +108,15 @@ Tyically you can break up the delivery stage that crosses management stage bound
 Headings | Description
 -------- | ---------
 Identifier | A unique key
-Title | The name by whitch the product is known
+Title | The name by which the product is known
 Purpose | Why do we need this product
-Composotion | What will make up the product
+Composition | What will make up the product
 Derivation | Where will the product come from
 Format & Presentation | What form will it take
 Development Skills Required | What skills will be required
 Quality Criteria | What are the key quality factors
-Quality Tolerance | Is the quality ofjhte product accepptable
-Qualiy Method | How will quality be judged
+Quality Tolerance | Is the quality of the product acceptable
+Quality Method | How will quality be judged
 Quality Skills Required | Who is qualified to check the product
 Quality Responsibilities | Who are the Producers, Reviewers & Approvers
 
@@ -119,16 +135,5 @@ S3-3P6
 ## Risk (Theme)
 
 9 risk principles
-
-
-
-
-
-
-
-
-
-
-
 
 
