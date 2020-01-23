@@ -39,7 +39,7 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 > "The section of the project the Project Manager is managing on behalf of the Project Board at any one time, at the end of which the Project Board will wish to review progress to date, the state of the project plan, the business case and risks, and the next stage plan, in order to decide whether to continue the project"
 
-## Management Stages
+### Management Stages
 
 ### 2 stages minimum
 
@@ -55,6 +55,13 @@ Typically you can break up the delivery stage that crosses management stage boun
 The number of stages will depend on the size and complexity of the project, the risk, organisational standard and policies and where significant decisions are needed usually before a major commitment is made, such as awarding a contract.
 
 Smaller stages offer more control to the project board who are the key decision makers, but also required more effort on their part.
+
+Benefits of Managing by Stages
+- Making sure the project is properly initiated before work starts
+- Giving the Project Board the opportunity to assess the projects viability at defined intervals
+- Making sure key decisions are made before the work starts (suchh as awarding contracts)
+- Clarifying the impact of external influences on the project before the go-ahead is given
+- Delegating authority to the Project Manager on a stage by stage basis - *Management by Exception*
 
 5. Manage by exception
 6. Focus on products
