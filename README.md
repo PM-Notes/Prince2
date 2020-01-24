@@ -253,4 +253,5 @@ Num | Process| Description
 ## SU
 
 Project Mandate
-:point_down:
+
+:arrow_down:
