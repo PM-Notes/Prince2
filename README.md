@@ -5,7 +5,7 @@ Prince2 Foundation Notes
 - Themes (7) 
 - Proceses (7)
 
-## A Project Defined
+# A Project Defined
 
 Prince2 assumes there will be a Customer who specifies the desired results and a Supplier who provides resources and skills to deliver these results.
 
