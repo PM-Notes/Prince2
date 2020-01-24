@@ -250,4 +250,7 @@ Num | Process| Description
 6 | CP Closing a Project | Used by the PM to handover the projects products to the Customer and close the project 
 7 | DP Directing a Project | Used by the Project Board to make decisions and provide advice and guidance
 
+## SU
 
+Project Mandate
+:point_down:
