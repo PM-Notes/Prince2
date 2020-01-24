@@ -96,8 +96,8 @@ Num | Theme | Description
 
 3 levels of plan are suggested:
 
-1. Project Plan
-2. Stage Plans - Initiation stage plan, then subsequent stage plans.
+1. Project Plan - Created during the Initiating a Project process
+2. Stage Plans - Initiation stage plan, then subsequent stage plans
 3. Team Plans
 
 Exception Plans can be part of the Project or Stage plans.
@@ -145,7 +145,7 @@ Plans need to contain:
 
 ### Project Plan
 
-A high-level view of the full project, comprising of:
+Created during the *Initiating a Project* process and is a *high-level* view of the full project, comprising of:
 
 - Key milestones
 - Resource requirements
@@ -156,7 +156,21 @@ Defined as:
 
 > A high-level plan showing the major products of the project, when they will be delivered and at what cost. An initial Project Plan is presented as part of the *project initiation documentation or PID*. This is revised as information on actual progress appears,  It is a major control documentation for the Project Board to measure actual progress against expectation.
 
+The Project Plan provides a statement of how the below targets are to be acheived:
+
+- Time
+- Cost
+- Scope
+- Quality
+- Identifies major control points, such as management stages and milestones.
+
+And identifies the major products, activities and resources required for the project.
+
+> The Project Plan is used within the Business Case and is used by the Project Board as a baseline to monitor progress stage-by-stage, and should align with Corporate/Programme Managements plan.
+
 ### Stage Plan (for each management stage)
+
+*Initiation Stage Plan* is created in *Starting Up a project* and subsequent stage plans are created within *Managing a stage Boundary*.
 
 Defined as:
 
