@@ -121,7 +121,7 @@ Plans need to contain:
 - How progress will be monitored 
 - What has to be don’t to control risks
 
-## 7 Planning Steps
+### 7 Planning Steps
 
 1. Designing a plan - Decide the number of stages, the format of the plan and the links to the programme or portfolio. 
 2. Defining and analysing the products - Using the Product Based Planning technique (see Product Based Planning below)
