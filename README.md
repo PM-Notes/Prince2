@@ -100,7 +100,7 @@ Num | Theme | Description
 2. Stage Plans - Initiation stage plan, then subsequent stage plans.
 3. Team Plans
 
-Exception Plans can be part of the Project or Stage plans. (( CHECK THIS ))
+Exception Plans can be part of the Project or Stage plans.
 
 > Without a plan there is no control
 
@@ -120,6 +120,16 @@ Plans need to contain:
 - When will it be produced
 - How progress will be monitored 
 - What has to be don’t to control risks
+
+## 7 Planning Steps
+
+1. Designing a plan - Decide the number of stages, the format of the plan and the links to the programme or portfolio. 
+2. Defining and analysing the products - Using the Product Based Planning technique (see Product Based Planning below)
+3. Identifying acivities and dependancies - Defining the work required (what we have to do) and their dependancies between them.
+4. Preparing estimates - Duration of each activity
+5. Preparing a schedule
+6. Analysing risks to a plan (covering steps 2-5) - Consider risks to the plan and any mitigating actions should be included in the schedule.
+7. Document the plan - What it contains, its constraint and monitoring an control arrangements etc.
 
 ### Project Plan
 
