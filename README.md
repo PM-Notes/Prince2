@@ -131,6 +131,18 @@ Plans need to contain:
 6. Analysing risks to a plan (covering steps 2-5) - Consider risks to the plan and any mitigating actions should be included in the schedule.
 7. Document the plan - What it contains, its constraint and monitoring an control arrangements etc.
 
+### Plan Minimum Requirements
+
+- Ensure the plans enable the Business Case to be realised.
+- Have at least 2 Management Stages (Initiation Stage and rest of the Project)
+- Produce a Project plan for the whole project and a Stage Plan for each Management Stage.
+- Use the Product Based Planning technique for the Project, Stage and Exception plans, and optionally Team plans.
+- Produce specific plans for managing exception
+- Define the roles and responsibilities for planning
+- Use lessons to inform planning
+- Create and maintain the 4 Product Based Planning products (See Product Based Planning below)
+- The Product Flow Diagram is also recommended, but optional.
+
 ### Project Plan
 
 A high-level view of the full project, comprising of:
