@@ -252,10 +252,11 @@ Num | Process| Description
 
 ## SU
 
-Project Mandate
-:arrow_down:
-Starting up a project (SU)
-:arrow_down:
-Project Brief
+Project Mandate  
+:arrow_down:  
+Starting up a project (SU)  
+:arrow_down:   
+Project Brief  
+
 
 
