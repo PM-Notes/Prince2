@@ -254,7 +254,7 @@ Num | Process| Description
 
 Project Mandate  
 :arrow_down:  
-Starting up a project (SU)  
+Starting up a project (SU) - Outline business case
 :arrow_down:   
 Project Brief  
 
