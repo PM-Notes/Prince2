@@ -172,13 +172,17 @@ And identifies the major products, activities and resources required for the pro
 
 *Initiation Stage Plan* is created in *Starting Up a project* and subsequent stage plans are created within *Managing a stage Boundary*.
 
+A stage plan is required for each management stage and each stage plan is finilaised near to the end of the previous stage. This provides more confidence as the stage plan is produced close to the time when the planned events will take place. Stage plans are performed with the benefit of hindsignt of the performoance of earlier stages and are much shorter in duration than the project plan.
+
 Defined as:
 
 > A detailed plan used as a basis for project management control throughout a management stage.
 
 ### Team Plan (optional)
 
-Covers the work of the team during a stage and are *optional*.
+Covers the work of the team during a stage and are *optional*.  A format is not prescribed for Team Plans as there may be more than one team on a project possibly from differnt organistions, with differnt internal plan processes.
+
+Team Managers produce Team Plans in parallel with the production of a stage plan, or when a Work Package has been accepted during the Managing Product Delivery process.
 
 ## Product Based Planning (use for all plans)
 
