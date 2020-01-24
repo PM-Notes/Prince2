@@ -206,9 +206,6 @@ External Product = Ellipse/Circle
 
 Time flows in one direction, either from top to bottom or left to right.
 
-## 7 Planning Steps
-S3-3P6
-
 # Risk 
 
 9 risk principles
