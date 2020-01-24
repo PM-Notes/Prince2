@@ -184,6 +184,16 @@ Covers the work of the team during a stage and are *optional*.  A format is not 
 
 Team Managers produce Team Plans in parallel with the production of a stage plan, or when a Work Package has been accepted during the Managing Product Delivery process.
 
+### Exception Plan 
+
+When predicted that a plan will no longer finish within the agreed tollerances and exception plan may be produced to replace that plan. The exception plan is prepared at the same level of detail as the plan it replaces, at either Project or Stage level. Once approved it becomes the new baselined project or stage plan.
+
+Exception plans pick up from the current plans actuals and continues to the end of that plan.  Exception plans are not produced at Team level.
+
+If a work package is forecast to exceed its tolerances, then provides it can be resolved within the stage tolerances, the Project Manager will ammend or replace the work package in question.
+
+Exception plans require approval from the *Project Board* to replace a *Stage Plan*, and *Corporate/Programme Management* to replace a *Project Plan*.
+
 ## Product Based Planning (use for all plans)
 
 ### 4 Products must be produces and maintained (in order)
