@@ -94,19 +94,15 @@ Num | Theme | Description
 
 ## Plans (3) 
 
+3 levels of plan are suggested:
+
 1. Project Plan
-2. Stage Plan
-3. Team Plan
+2. Stage Plans - Initiation stage plan, then subsequent stage plans.
+3. Team Plans
 
-4. Exception Plan
+Exception Plans can be part of the Project or Stage plans. (( CHECK THIS ))
 
-### Project Plan (for the whole of the project)
-
-A high-level view of the full project, comprising of key milestones, resource requirements and overall cost and time estimates.
-
-Defined as:
-
-> A high-level plan showing the major products of the project, when they will be delivered and at what cost. An initial Project Plan is presented as part of the project initiation documentation or PID. This is revised as information on actual progress appears,  It is a major control documentation for the Project Board to measure actual progress against expectation.
+> Without a plan there is no control
 
 Plans provide stakeholders:
 
@@ -115,16 +111,6 @@ Plans provide stakeholders:
 - Issues with the definition of the scope
 - Which people, specialist equipment & resources are needed
 - Are targets for time, cost, quality, scope, risk & benefits achievable (the 6 aspects of performance)
-
-### Stage Plan (for each management stage)
-
-Defined as:
-
-> A detailed plan used as a basis for project management control throughout a management stage.
-
-### Team Plan (optional)
-
-Covers the work of the team during a stage and are optional.
 
 Plans need to contain:
 
@@ -135,7 +121,28 @@ Plans need to contain:
 - How progress will be monitored 
 - What has to be don’t to control risks
 
-### Exception Plan
+### Project Plan
+
+A high-level view of the full project, comprising of:
+
+- Key milestones
+- Resource requirements
+- Overall cost estimates
+- Overall time estimates
+
+Defined as:
+
+> A high-level plan showing the major products of the project, when they will be delivered and at what cost. An initial Project Plan is presented as part of the *project initiation documentation or PID*. This is revised as information on actual progress appears,  It is a major control documentation for the Project Board to measure actual progress against expectation.
+
+### Stage Plan (for each management stage)
+
+Defined as:
+
+> A detailed plan used as a basis for project management control throughout a management stage.
+
+### Team Plan (optional)
+
+Covers the work of the team during a stage and are *optional*.
 
 ## Product Based Planning (use for all plans)
 
