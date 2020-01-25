@@ -240,6 +240,8 @@ Time flows in one direction, either from top to bottom or left to right.
 
 # Processes (7)
 
+Process Model Diagram https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf
+
 Num | Process| Description
 ------ | ------ | ------
 1 | SU Starting Up a project | Do we have a viable and worthwhile project?
