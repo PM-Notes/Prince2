@@ -240,8 +240,12 @@ Time flows in one direction, either from top to bottom or left to right.
 
 "An uncertain event that, should it occur, will have an effect on the acheivement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occuring, and the magnitude of its impact on objectives."
 
-Threat = Risk with negative impact (Oil price soar!)
+Threat = Risk with negative impact (Oil price soar!) 
 Opportunity = Risk with positive impact (Oil price slump!)
+
+Responses
+Threat - Avoid and Reduce
+Opportunity - Exploit and Enhance
 
 Identified - Clearly describing the risks, so there is a common understanding.
 Assessed - Ranking risks in terms of estimated probablility, impact and timing or proximity.
@@ -253,7 +257,7 @@ Risk Principles (9)
 1. Understanding the project context
 2. Involve the stakeholders
 3. Establishing clear project objectives
-4. Developing a project risk management approach
+4. Developing a project risk management approach (Defines the approach to identify, assess and control uncertainty).
 5. Reporting on risks regularly
 6. Defining clear roles and responcibilities.
 7. Establishing a support structure and a supportive culture for risk management.
@@ -285,12 +289,14 @@ Products Required (2)
 
 Should contain:
 
-Risk Identifier - Unique reference (typically numnber/alpha-numberic value)
-Risk Author - Who raised the risk
-Date Registered - Date risk identified
-Risk Category - Describes the type of risk in terms of the projects chosen categories, schedule, quality, legal and so on..
-Risk Description - Describing the cause, the event, whether a threat or opportunity, and the likely effect which will describe the impact in words.
-Probability, impact and expected value of the risk - It is helpful to estimate the inherit values (pre-response action) and risidual values (post-response value).
+- Risk Identifier - Unique reference (typically numnber/alpha-numberic value)
+- Risk Author - Who raised the risk
+- Date Registered - Date risk identified
+- Risk Category - Describes the type of risk in terms of the projects chosen categories, schedule, quality, legal and so on..
+- Risk Description - Describing the cause, the event, whether a threat or opportunity, and the likely effect which will describe the impact in words.
+- Probability, impact and expected value of the risk - It is helpful to estimate the inherit values (pre-response action) and risidual values (post-response value).
+- Proximity - 
+- Risk response categories
 
 
 
