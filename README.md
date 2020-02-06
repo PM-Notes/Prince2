@@ -250,6 +250,15 @@ Controlled - By making sure the responses are implimented, monitored and control
 
 Risk Principles (9)
 
+1. Understanding the project context
+2. Involve the stakeholders
+3. Establishing clear project objectives
+4. Developing a project risk management approach
+5. Reporting on risks regularly
+6. Defining clear roles and responcibilities.
+7. Establishing a support structure and a supportive culture for risk management.
+8. Monitoring for early warning indicators.
+9. Establishing a review cycle and seek cintinued improvement.
 
 
 # Processes (7)
