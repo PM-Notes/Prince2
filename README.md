@@ -261,4 +261,8 @@ Starting up a project (SU) - Outline business case
 Project Brief  
 
 
+# Risk (Theme)
+
+"An uncertain event that, should it occur, will have an effect on the acheivement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occuring, and the magnitude of its impact on objectives."
+
 
