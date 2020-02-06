@@ -260,9 +260,7 @@ Risk Principles (9)
 8. Monitoring for early warning indicators.
 9. Establishing a review cycle and seek cintinued improvement.
 
-s3-4p3
-
-Minimum Requirements
+### Minimum Requirements
 
 1. Define the risk management approach which must cover:
 
@@ -275,9 +273,19 @@ Minimum Requirements
 4. Use lessons learned to inform risk identification and management.
 
 Products Required (2) 
->Created duting Initiating a Project (IP)
+> Both created during *Initiating a Project (IP)*
 1. Risk Management Approach - How a risk will be managed (including any Processes, Procedures, Techniques and Responsibilities).
-2. Risk Register - Provides a record of identified risks, their status and history. 
+2. Risk Register - Provides a record of identified risks (Threats & Opportinities), their status and history. 
+
+> Risk Tollerance - How much risk we are prepared to take. E.g. Month End might need all IT systems up, record this in the Risk Register and mitigate the risk.
+
+> Risks identified in Starting Up a project (SU) needs to be logged in the PM's Daily Log and transferred to the Risk Register if the initiation stage is approved by the Project Board.
+
+### Risk Register
+
+Should include:
+
+
 
 
 # Processes (7)
@@ -301,3 +309,5 @@ Project Mandate
 Starting up a project (SU) - Outline business case
 :arrow_down:   
 Project Brief  
+
+
