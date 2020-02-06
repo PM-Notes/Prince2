@@ -260,6 +260,25 @@ Risk Principles (9)
 8. Monitoring for early warning indicators.
 9. Establishing a review cycle and seek cintinued improvement.
 
+s3-4p3
+
+Minimum Requirements
+
+1. Define the risk management approach which must cover:
+
+- The way we identify and assess risks, implement responses and communicate risk.
+- Assess whether the risks might affect the business justification.
+- The roles and responsibilities.
+
+2. We must maintain a risk register
+3. Ensure risks are identified, assessed, managed and revewied.
+4. Use lessons learned to inform risk identification and management.
+
+Products Required (2) 
+>Created duting Initiating a Project (IP)
+1. Risk Management Approach - How a risk will be managed (including any Processes, Procedures, Techniques and Responsibilities).
+2. Risk Register - Provides a record of identified risks, their status and history. 
+
 
 # Processes (7)
 
