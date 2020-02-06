@@ -283,8 +283,14 @@ Products Required (2)
 
 ### Risk Register
 
-Should include:
+Should contain:
 
+Risk Identifier - Unique reference (typically numnber/alpha-numberic value)
+Risk Author - Who raised the risk
+Date Registered - Date risk identified
+Risk Category - Describes the type of risk in terms of the projects chosen categories, schedule, quality, legal and so on..
+Risk Description - Describing the cause, the event, whether a threat or opportunity, and the likely effect which will describe the impact in words.
+Probability, impact and expected value of the risk - It is helpful to estimate the inherit values (pre-response action) and risidual values (post-response value).
 
 
 
