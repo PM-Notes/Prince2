@@ -236,7 +236,21 @@ Time flows in one direction, either from top to bottom or left to right.
 
 # Risk 
 
-9 risk principles
+# Risk (Theme)
+
+"An uncertain event that, should it occur, will have an effect on the acheivement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occuring, and the magnitude of its impact on objectives."
+
+Threat = Risk with negative impact (Oil price soar!)
+Opportunity = Risk with positive impact (Oil price slump!)
+
+Identified - Clearly describing the risks, so there is a common understanding.
+Assessed - Ranking risks in terms of estimated probablility, impact and timing or proximity.
+Planned for - Identifying suitable answers to risks and assigning owners.
+Controlled - By making sure the responses are implimented, monitored and controlled.
+
+Risk Principles (9)
+
+
 
 # Processes (7)
 
@@ -259,10 +273,3 @@ Project Mandate
 Starting up a project (SU) - Outline business case
 :arrow_down:   
 Project Brief  
-
-
-# Risk (Theme)
-
-"An uncertain event that, should it occur, will have an effect on the acheivement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occuring, and the magnitude of its impact on objectives."
-
-
