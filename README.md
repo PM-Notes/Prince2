@@ -74,7 +74,7 @@ Benefits of Managing by Stages
 Benefits of Focus on products
 - Ensures the project only undertakes work that directly contributes to the delivery of a product
 - Helps manage uncontrolled change ny ensuring that all changes are reviewed before being accepted
-- Reduces the risk of user complaints and disputes by establising the deliverables at the start of the project.
+- Reduces the risk of user complaints and disputes by establishing the deliverables at the start of the project.
 
 > Product Descriptions are used to clearly define the product
 
@@ -125,7 +125,7 @@ Plans need to contain:
 
 1. Designing a plan - Decide the number of stages, the format of the plan and the links to the programme or portfolio. 
 2. Defining and analysing the products - Using the Product Based Planning technique (see Product Based Planning below)
-3. Identifying acivities and dependancies - Defining the work required (what we have to do) and their dependancies between them.
+3. Identifying activities and dependancies - Defining the work required (what we have to do) and their dependancies between them.
 4. Preparing estimates - Duration of each activity
 5. Preparing a schedule
 6. Analysing risks to a plan (covering steps 2-5) - Consider risks to the plan and any mitigating actions should be included in the schedule.
@@ -156,7 +156,7 @@ Defined as:
 
 > A high-level plan showing the major products of the project, when they will be delivered and at what cost. An initial Project Plan is presented as part of the *project initiation documentation or PID*. This is revised as information on actual progress appears,  It is a major control documentation for the Project Board to measure actual progress against expectation.
 
-The Project Plan provides a statement of how the below targets are to be acheived:
+The Project Plan provides a statement of how the below targets are to be achieved:
 
 - Time
 - Cost
@@ -172,7 +172,7 @@ And identifies the major products, activities and resources required for the pro
 
 *Initiation Stage Plan* is created in *Starting Up a project* and subsequent stage plans are created within *Managing a stage Boundary*.
 
-A stage plan is required for each management stage and each stage plan is finilaised near to the end of the previous stage. This provides more confidence as the stage plan is produced close to the time when the planned events will take place. Stage plans are performed with the benefit of hindsignt of the performoance of earlier stages and are much shorter in duration than the project plan.
+A stage plan is required for each management stage and each stage plan is finalised near to the end of the previous stage. This provides more confidence as the stage plan is produced close to the time when the planned events will take place. Stage plans are performed with the benefit of hindsight of the performance of earlier stages and are much shorter in duration than the project plan.
 
 Defined as:
 
@@ -180,17 +180,17 @@ Defined as:
 
 ### Team Plan (optional)
 
-Covers the work of the team during a stage and are *optional*.  A format is not prescribed for Team Plans as there may be more than one team on a project possibly from differnt organistions, with differnt internal plan processes.
+Covers the work of the team during a stage and are *optional*.  A format is not prescribed for Team Plans as there may be more than one team on a project possibly from different organisations, with different internal plan processes.
 
 Team Managers produce Team Plans in parallel with the production of a stage plan, or when a Work Package has been accepted during the Managing Product Delivery process.
 
 ### Exception Plan 
 
-When predicted that a plan will no longer finish within the agreed tollerances and exception plan may be produced to replace that plan. The exception plan is prepared at the same level of detail as the plan it replaces, at either Project or Stage level. Once approved it becomes the new baselined project or stage plan.
+When predicted that a plan will no longer finish within the agreed tolerances and exception plan may be produced to replace that plan. The exception plan is prepared at the same level of detail as the plan it replaces, at either Project or Stage level. Once approved it becomes the new baselined project or stage plan.
 
 Exception plans pick up from the current plans actuals and continues to the end of that plan.  Exception plans are not produced at Team level.
 
-If a work package is forecast to exceed its tolerances, then provides it can be resolved within the stage tolerances, the Project Manager will ammend or replace the work package in question.
+If a work package is forecast to exceed its tolerances, then provides it can be resolved within the stage tolerances, the Project Manager will amend or replace the work package in question.
 
 Exception plans require approval from the *Project Board* to replace a *Stage Plan*, and *Corporate/Programme Management* to replace a *Project Plan*.
 
@@ -238,19 +238,15 @@ Time flows in one direction, either from top to bottom or left to right.
 
 # Risk (Theme)
 
-"An uncertain event that, should it occur, will have an effect on the acheivement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occuring, and the magnitude of its impact on objectives."
+"An uncertain event that, should it occur, will have an effect on the achievement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occurring, and the magnitude of its impact on objectives."
 
 Threat = Risk with negative impact (Oil price soar!) 
 Opportunity = Risk with positive impact (Oil price slump!)
 
-Responses
-Threat - Avoid and Reduce
-Opportunity - Exploit and Enhance
-
 Identified - Clearly describing the risks, so there is a common understanding.
-Assessed - Ranking risks in terms of estimated probablility, impact and timing or proximity.
+Assessed - Ranking risks in terms of estimated probability, impact and timing or proximity.
 Planned for - Identifying suitable answers to risks and assigning owners.
-Controlled - By making sure the responses are implimented, monitored and controlled.
+Controlled - By making sure the responses are implemented, monitored and controlled.
 
 Risk Principles (9)
 
@@ -259,10 +255,10 @@ Risk Principles (9)
 3. Establishing clear project objectives
 4. Developing a project risk management approach (Defines the approach to identify, assess and control uncertainty).
 5. Reporting on risks regularly
-6. Defining clear roles and responcibilities.
+6. Defining clear roles and responsibilities.
 7. Establishing a support structure and a supportive culture for risk management.
 8. Monitoring for early warning indicators.
-9. Establishing a review cycle and seek cintinued improvement.
+9. Establishing a review cycle and seek continued improvement.
 
 ### Minimum Requirements
 
@@ -273,15 +269,15 @@ Risk Principles (9)
 - The roles and responsibilities.
 
 2. We must maintain a risk register
-3. Ensure risks are identified, assessed, managed and revewied.
+3. Ensure risks are identified, assessed, managed and reviewed.
 4. Use lessons learned to inform risk identification and management.
 
 Products Required (2) 
 > Both created during *Initiating a Project (IP)*
 1. Risk Management Approach - How a risk will be managed (including any Processes, Procedures, Techniques and Responsibilities).
-2. Risk Register - Provides a record of identified risks (Threats & Opportinities), their status and history. 
+2. Risk Register - Provides a record of identified risks (Threats & Opportunities), their status and history. 
 
-> Risk Tollerance - How much risk we are prepared to take. E.g. Month End might need all IT systems up, record this in the Risk Register and mitigate the risk.
+> Risk Tolerance - How much risk we are prepared to take. E.g. Month End might need all IT systems up, record this in the Risk Register and mitigate the risk.
 
 > Risks identified in Starting Up a project (SU) needs to be logged in the PM's Daily Log and transferred to the Risk Register if the initiation stage is approved by the Project Board.
 
@@ -289,15 +285,30 @@ Products Required (2)
 
 Should contain:
 
-- Risk Identifier - Unique reference (typically numnber/alpha-numberic value)
+- Risk Identifier - Unique reference (typically number/alpha-numeric value)
 - Risk Author - Who raised the risk
 - Date Registered - Date risk identified
 - Risk Category - Describes the type of risk in terms of the projects chosen categories, schedule, quality, legal and so on..
 - Risk Description - Describing the cause, the event, whether a threat or opportunity, and the likely effect which will describe the impact in words.
-- Probability, impact and expected value of the risk - It is helpful to estimate the inherit values (pre-response action) and risidual values (post-response value).
-- Proximity - 
-- Risk response categories
+- Probability, impact and expected value of the risk - It is helpful to estimate the inherit values (pre-response action) and residual values (post-response value).
+- Proximity - Describes how close to the present time is the risk event anticipated to happen, e.g. imminently, within this stage, within this project or beyond the project. This should be recorded within the projects chosen scales.
+- Risk response categories - Will document how the project will treat the risk, in terms of the projects chosen categories, e.g. for both Threats and Opportunities, we can chose to:
 
+- Prepare a contingent plan
+- Accept
+- Share
+- Transfer the risk
+
+Threat - Avoid and Reduce
+Opportunity - Exploit and Enhance
+
+- Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
+
+> More than one response may apply to a risk. 
+
+- Risk status - Active or Closed?
+- Risk owner - Person responsible for managing the risk, there can be only one owner per risk.
+- Risk actionee - Person(s) who will implement the actions described int he risk response. And may or may not be the same person as the Risk Owner.
 
 
 # Processes (7)
