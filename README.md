@@ -299,8 +299,8 @@ Should contain:
   - Share
   - Transfer the risk
 
-Threat - Avoid and Reduce  
-Opportunity - Exploit and Enhance  
+> Threat - Avoid and Reduce  
+> Opportunity - Exploit and Enhance  
 
 - Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
 
@@ -310,10 +310,19 @@ Opportunity - Exploit and Enhance
 - Risk owner - Person responsible for managing the risk, there can be only one owner per risk.
 - Risk actionee - Person(s) who will implement the actions described int he risk response. And may or may not be the same person as the Risk Owner.
 
+## Risk Management Procedure
+
+1. Identify
+2. Assess
+3. Plan
+4. Implement
+5. Communicate
+
+
 
 # Processes (7)
 
-Process Model Diagram https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf
+[Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
 
 Num | Process| Description
 ------ | ------ | ------
