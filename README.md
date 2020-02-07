@@ -294,13 +294,12 @@ Should contain:
 - Proximity - Describes how close to the present time is the risk event anticipated to happen, e.g. imminently, within this stage, within this project or beyond the project. This should be recorded within the projects chosen scales.
 - Risk response categories - Will document how the project will treat the risk, in terms of the projects chosen categories, e.g. for both Threats and Opportunities, we can chose to:
 
-  - Prepare a contingent plan
-  - Accept
-  - Share
-  - Transfer the risk
-
-> Threat - Avoid and Reduce  
-> Opportunity - Exploit and Enhance  
+  - Prepare a contingent plan (a plan for if the risk occurs)
+  - Accept (make a consious decision to live with the risk)
+  - Share (choose to share the loss should a risk occur, usually through a contact)
+  - Transfer the risk (to a 3rd party via a contract)
+ - Threat - Avoid (plan the activities so the risk is avoided altogether, or there is no impact) & Reduce (take some action to reduce the probability or impact)
+- Opportunity - Exploit (take action so the opportunity is realised) & Enhance (make it more likely to happen/increase the impact) 
 
 - Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
 
@@ -312,8 +311,8 @@ Should contain:
 
 ## Risk Management Procedure
 
-1. Identify
-2. Assess
+1. Identify - Contexts and Risks
+2. Assess - Estimate and Evaluate
 3. Plan
 4. Implement
 5. Communicate
