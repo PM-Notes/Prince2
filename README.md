@@ -294,13 +294,13 @@ Should contain:
 - Proximity - Describes how close to the present time is the risk event anticipated to happen, e.g. imminently, within this stage, within this project or beyond the project. This should be recorded within the projects chosen scales.
 - Risk response categories - Will document how the project will treat the risk, in terms of the projects chosen categories, e.g. for both Threats and Opportunities, we can chose to:
 
-- Prepare a contingent plan
-- Accept
-- Share
-- Transfer the risk
+  - Prepare a contingent plan
+  - Accept
+  - Share
+  - Transfer the risk
 
-Threat - Avoid and Reduce
-Opportunity - Exploit and Enhance
+Threat - Avoid and Reduce  
+Opportunity - Exploit and Enhance  
 
 - Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
 
