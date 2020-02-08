@@ -334,8 +334,9 @@ Should contain:
 Corportate or Program Management | Executive | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance | Project Support
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
 Provide risk mgmt policy | Ensure risk mgmt approach exists | Ensures user risks are: | Ensures suppliers risks are: | Create Risk mgmt approach | Risk: | Revewing risk mgmt practices | Assit with maintenance of project risk register
--------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-
+Risk mgm process guide | Risks are idenified, assessed and controlled | Identified | Identified | Creates/maintains Risk Register | Identification | Maintain alignment with risk mgmt approach | 
+ | Escaletes as necessary
+ 
 # Processes (7)
 
 [Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
