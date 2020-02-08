@@ -316,8 +316,16 @@ Should contain:
 1. Identify - Identify the context and risks (examinin the Risk mgmt approach, project mandate, project brief, Project product description). Record risks in the Risk Register. Techniques to identify risks could be Review Lessons, Risk Checklists, Risk Prompt Lists, Brainstorming, Risk Breakdown Structures).
 2. Assess - Estimate and Evaluate.  Once identified, risks should be assessed in terms of their, Probability (how likely to happen?), Impact (what will happen if it does?), Proximity (when will it happen?). 
 3. Plan - Risk Responses (see above: Prepare Contingent Plan, Accept, Share, Transfer, Avoid, Reduce, Exploit, Enhance) - PASTAR/PASTEE
-4. Implement
-5. Communicate
+4. Implement - Put the chosen Risk Response(s) into action.  Clear responsibilities need to be identified for the Risk Owner (management, monitor, control a particular risk assigent to them), this includes the implimentation of the selected responses to address the threat or maxamise the oportunities. The Risk Actionee who is assigned to carry out a particular risk action(s) and takes direction from the Risk Owner. 
+5. Communicate - Carried out in parallel with the other steps. Information about risks is commicated as part of the following reports:
+
+- Checkpoint reports
+- Highlight reports
+- End stage reports
+- End project reports
+- Exception reports
+
+> The funding for risk mitigation actions needs to be considered, the money set aside for these activities is known as the Risk Budget, and forms part of the Project Budget. The more spent on managing risk, the less for other project activities. Risks need to be analysed to avoid spending too much on low priority risks, anbd not enough on high priority risks.
 
 > Risk needs to be expresses in terms of its, Cause (the situation), Event (the threat), Effect (the result).
 
