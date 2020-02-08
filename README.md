@@ -329,6 +329,11 @@ Should contain:
 
 > Risk needs to be expresses in terms of its, Cause (the situation), Event (the threat), Effect (the result).
 
+### Risk Responsibilities
+
+Corportate or Program Management | Executive | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance | Project Support
+-------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
+Provide risk mgmt policy | 
 # Processes (7)
 
 [Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
