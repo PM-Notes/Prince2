@@ -336,7 +336,7 @@ Corportate or Program Management | Executive | Senior User | Senior Supplier | P
 Provide risk mgmt policy | Ensure risk mgmt approach exists | Ensures user risks are: | Ensures suppliers risks are: | Create Risk mgmt approach | Risk: | Revewing risk mgmt practices | Assit with maintenance of project risk register
 Risk mgm process guide | Risks are idenified, assessed & controlled | Identified | Identified | Creates/maintains Risk Register | Identification | Maintain alignment with risk mgmt approach | 
 . | Escalates as necessary | Assessed | Assessed | Risks are identified, assessed & controlled | Assessment | | 
-. | | Controlled | Controlled | | | | |
+. | | Controlled | Controlled | | Controlled | | |
 
 # Processes (7)
 
