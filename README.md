@@ -32,6 +32,16 @@ A project can be standalone or part of a programme (and as such subject to the p
 
 # Principles (7) 
 
+1. Continued business justification
+2. Learn from experience
+3. Defined roles and responsibilities 
+4. Manage by stages 
+5. Manage by exception
+6. Focus on products 
+7. Tailor to suit the project
+
+### More detail
+
 1. Continued business justification (Business Case)
 2. Learn from experience (learn from previous projects or previous management stages)
 3. Defined roles and responsibilities (Stakeholders - Business Sponsors, Users, Suppliers (int/ext))
@@ -337,6 +347,15 @@ Provide risk mgmt policy | Ensure risk mgmt approach exists | Ensures user risks
 Risk mgm process guide | Risks are idenified, assessed & controlled | Identified | Identified | Creates/maintains Risk Register | Identification | Maintain alignment with risk mgmt approach | 
 . | Escalates as necessary | Assessed | Assessed | Risks are identified, assessed & controlled | Assessment | | 
 . | | Controlled | Controlled | | Control | | |
+
+# Quality (Theme)
+
+
+
+
+
+
+
 
 # Processes (7)
 
