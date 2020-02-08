@@ -301,6 +301,8 @@ Should contain:
  - Threat - Avoid (plan the activities so the risk is avoided altogether, or there is no impact) & Reduce (take some action to reduce the probability or impact)
 - Opportunity - Exploit (take action so the opportunity is realised) & Enhance (make it more likely to happen/increase the impact) 
 
+> Tip: It might help to rememnber PASTAR & PASTEE
+
 - Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
 
 > More than one response may apply to a risk. 
@@ -311,13 +313,13 @@ Should contain:
 
 ## Risk Management Procedure
 
-1. Identify - Contexts and Risks
-2. Assess - Estimate and Evaluate
-3. Plan
+1. Identify - Identify the context and risks (examinin the Risk mgmt approach, project mandate, project brief, Project product description). Record risks in the Risk Register. Techniques to identify risks could be Review Lessons, Risk Checklists, Risk Prompt Lists, Brainstorming, Risk Breakdown Structures).
+2. Assess - Estimate and Evaluate.  Once identified, risks should be assessed in terms of their, Probability (how likely to happen?), Impact (what will happen if it does?), Proximity (when will it happen?). 
+3. Plan - Risk Responses (see above: Prepare Contingent Plan, Accept, Share, Transfer, Avoid, Reduce, Exploit, Enhance) - PASTAR/PASTEE
 4. Implement
 5. Communicate
 
-
+> Risk needs to be expresses in terms of its, Cause (the situation), Event (the threat), Effect (the result).
 
 # Processes (7)
 
