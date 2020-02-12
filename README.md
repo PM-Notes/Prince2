@@ -472,6 +472,31 @@ The Quality Management Approach describes:
 - Summarises the number and type of activities undertaken
 - Provides an Audit Trail of quality events planned and undertaken
 
+### Quality Planning and Control
+
+Quality Planning
+- Objectives & requirements
+- Overall approach (in the Quality Mgmt Approach, during the Initiation stage)
+- Stage quality activities (ensuring quality is acheived)
+
+Customer Quality Expections
+- Docuyment in the Project Product Description
+- Project Initiation documentation
+
+Qualty Control (the means of ensuring that products meet the quality criteria specified for them)
+
+> Quality Control is about examining products to determine that they meet requirements, and normally takes place after some wokrk has been done.
+
+- Objectives & Requirements
+- Overall approach
+  - Quality mgmt approach (which is part of the Project Initiation documentation, created during the Initiation stage)
+
+Quality Methods
+In-Process (where specialists methods are used in the creation of the products and on-going quality inspections)
+Appraisal (where the finished products are assessed for compelteness, testing is carreid out where the Quality Criteria are objective and measureable.  Quality Inspection methods are used when some subjective judgement is required.
+
+> The Quality Review Technique is suggested by Prince2 which compliments the use of Product Descriptions. 
+
 ### Quality Reviews
 - Check a completed product for errors
 - Can be envoked at any point within a project
@@ -491,7 +516,7 @@ Objectives
 - Confirm the product is complete and ready for approval
 - Baseline the product for Change Control
 
-### Quality Review Procedure
+### Quality Review Procedure/Technique
 
 1. Review preparation
 2. Review agenda
@@ -520,34 +545,17 @@ Results
 - Completing actions
 - Communicating results (to management)
 - Storing/filing records produced durin the review
-- 
+- Once the Quality Review is compelte, the product is Approved by the appropriate management person or group.
 
+### Quality Review Roles 
+Chair - Conducts review
+Presenter - Introduces the product to the reviewers and represents the Producers of the product.
+Reviewer - Reviews the product
+Administrator - Administrative suport to the Chair, records results and recommends actions.
 
-
-### Quality Planning and Control
-
-Quality Planning
-- Objectives & requirements
-- Overall approach (in the Quality Mgmt Approach, during the Initiation stage)
-- Stage quality activities (ensuring quality is acheived)
-
-Customer Quality Expections
-- Docuyment in the Project Product Description
-- Project Initiation documentation
-
-Qualty Control (the means of ensuring that products meet the quality criteria specified for them)
-
-> Quality Control is about examining products to determine that they meet requirements, and normally takes place after some wokrk has been done.
-
-- Objectives & Requirements
-- Overall approach
-  - Quality mgmt approach (which is part of the Project Initiation documentation, created during the Initiation stage)
-
-Quality Methods
-In-Process (where specialists methods are used in the creation of the products and on-going quality inspections)
-Appraisal (where the finished products are assessed for compelteness, testing is carreid out where the Quality Criteria are objective and measureable.  Quality Inspection methods are used when some subjective judgement is required.
-
-> The Quality Review Technique is suggested by Prince2 which compliments the use of Product Descriptions. 
+The above are roles not people, as such the minimum number of people who can carry out a review is 2
+- One taking the Chair and Reviewer roles
+- The other the Presenter and Administator roles
 
 # Change (Theme)
 
