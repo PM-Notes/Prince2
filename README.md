@@ -405,7 +405,34 @@ In line with corporate, programme, customer standards and policies | Each board 
 Indipendant of the project | NOT indipendent of the project 
 . | Cannot be delegated to the Project Manager, Project Support or Team Manager
 
+### Minimum Requirements
 
+- The project should define its Quality Management Approach covering as a minimum:
+  - The approach to quality control
+  - The approach to project assurance
+  - The way quality will be communicated through the life cycle
+  - The roles and responsibilities of thise involved
+  
+- Ensure the quality criteria for the procucts are specified in the product descriptions
+- Maintain quality records
+- Specify customer's quality expectations and accpetance criteria
+- Use lessons to inform planning (including defining quality criteria and expectations)
+
+Two products at minumum need to be produced and maintained:
+
+1. Quality Management Approach (describes how qualilty will be managed, including:
+- Processes
+- Procedures
+- Techniques
+- Standards
+- Quality Register
+- Responsibilities
+
+2. Quality Register
+- Sumarise quality activities
+- unique reference for activities
+- Pointer for quality records
+- Summarises activities
 
 # Change (Theme)
 
