@@ -1,4 +1,4 @@
-# Prince2
+# Prince2 :crown:
 Prince2 Foundation Notes
 
 - Principles (7)
