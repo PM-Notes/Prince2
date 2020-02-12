@@ -222,6 +222,19 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 - Project level quality tolerance
 
 ### Product Breakdown Structure (PBS)
+- Similar to the Work Breakdown Structure
+- Top down view of all the products a project is goin to generate
+- Starting at top with the finished deliverable or outcome of the project
+- Then breaking each product down to its constituent components in a hirearacle structure
+- Before this can be done, a Project Product Description should be written
+- The Senior User is responsible for specifying the Project Product
+- But in practice the Project Manager will often complete the Project Product Description in conjunction with the Senior User and the Executive.
+- This provides a high-level scope of the project.
+
+PBS Example: S3-3P18
+
+
+
 
 ### Product Description
 
