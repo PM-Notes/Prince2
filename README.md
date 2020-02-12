@@ -420,7 +420,7 @@ Indipendant of the project | NOT indipendent of the project
 
 Two products at minumum need to be produced and maintained:
 
-1. Quality Management Approach (describes how qualilty will be managed, including:
+1. Quality Management Approach - describes how qualilty will be managed, including:
 - Processes
 - Procedures
 - Techniques
@@ -429,10 +429,39 @@ Two products at minumum need to be produced and maintained:
 - Responsibilities
 
 2. Quality Register
-- Sumarise quality activities
-- unique reference for activities
-- Pointer for quality records
-- Summarises activities
+- Provides information for the end stage and end project reports
+- Sumarise all the quality activities
+- Provides a unique reference for each quality activity
+- Act as a pointer for quality records
+- Summarises the number and type of activities undertaken
+
+### Customer Quality Expectations (CQE) AGAIN? Above..
+
+Discussed and agreed with the customer in Starting up a project (SU) and should cover:
+- Key quality requirements (for the projects product)
+- Standards and processes (that should be applied)
+- Quality Management System Usage (How it will be used)
+- Assessment measurements (any measurement that may be useful in assesing whether the projects product meets the expectations
+
+> CQE are often expressed in broad terms at first, but as far as possible should be expanded into a measurable format and prioritised.
+
+The below people should have a shared understanding of these expectations:
+- Senior User
+- Senior Supplier
+- Project Manager
+
+Once the CQE has been established the **Acceptance Criteria** should be developed :point_right:
+
+### Acceptance Criteria
+
+"Measurable definitions of the attributes required for a set of products to be acceptable to stakeholders"
+
+> We can't always have it all, so the Acceptance Criteria needs to be prioritised which will help set the **Quality Tolerances**
+
+> Both CQE and Acceptance Criteria may devcelop over time as more is known about the solution.
+
+> Once finalised, amy change must pass through the **Change Control process**
+
 
 # Change (Theme)
 
@@ -457,5 +486,7 @@ Project Mandate
 Starting up a project (SU) - Outline business case\
 :arrow_down:\
 Project Brief\
+
+
 
 
