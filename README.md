@@ -214,11 +214,20 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 4. Plan
 5. *Recommended* Product Flow Diagram (Link between product based planning and activity based planning)
 
-### Project Product Description
+### Project Product Description !!!!!!!!!!!! COMMPLETE & PBS !!!!!!!!!!!!!!!!!!!!
+- Purpose of the product
+- Products it consists of
+- Customer quality expectations
+- Acceptance Criteria
+- Project level quality tolerance
 
 ### Product Breakdown Structure (PBS)
 
 ### Product Description
+
+- The aim of the Product Description is to provide enough detail so that the team members can build the products to the right standards. 
+- They contain the Quality Specifications for the product
+- And the Quality Methods by which these will be judged.
 
 Headings | Description
 -------- | ---------
@@ -367,7 +376,7 @@ Central to quality and we need to ensure we:
   - Implement and track the quality methods used throughout the project
 
 ### Customer Quality Expectations (CQE)
-"A statement about the quality expected from the project product, captures in the project product description"
+"A statement about the quality expected from the project product, captures in the **Project Product Description**"
 
 Discussed and agreed with the customer in Starting up a project (SU) and should cover:
 - Key quality requirements (for the projects product)
@@ -384,7 +393,7 @@ The below people should have a shared understanding of these expectations:
 
 Once the CQE has been established the **Acceptance Criteria** should be developed :point_right:
 
-### Acceptance Criteria
+### Acceptance Criteria (fit for purpose?)
 
 "A prioritised list of criteria that the project product must meet before the customer will accept it.  I.e. measurable definitions of the attributes required for the set of products to be acceptable to key stakeholders"
 
@@ -428,7 +437,7 @@ Independent of the project | NOT independent of the project
 
 ### Minimum Requirements
 
-- The project should define its Quality Management Approach covering as a minimum:
+- The project should define its Quality Management Approach (Initiating a Project) covering as a minimum:
   - The approach to quality control
   - The approach to project assurance
   - The way quality will be communicated through the life cycle
@@ -449,17 +458,96 @@ Two products at minimum need to be produced and maintained:
 - Quality Register
 - Responsibilities
 
+The Quality Management Approach describes:
+- Any Quality Management Systems in the Customer/Supplier environment will be applied
+- Along with any applicable Standards
+- Approach to Project Assurance
+- Any Tailoring (that may be required)
+
 2. Quality Register
 - Provides information for the end stage and end project reports
 - Summarise all the quality activities
 - Provides a unique reference for each quality activity
 - Act as a pointer for quality records
 - Summarises the number and type of activities undertaken
+- Provides an Audit Trail of quality events planned and undertaken
+
+### Quality Reviews
+- Check a completed product for errors
+- Can be envoked at any point within a project
+- Carried out in the **Managing Product Delivery** process as the product is compelted
+- Any product can be the subject of a review
+- Quality Management Approach
+- Product Descriptions (includes the Quality Criteria used by reviewers to make sure the quality standards have been met)
+- Quality Register
+
+Benefits
+- A structured and organised approach to the examination of subjective quality criteria (found in the Product Desctiption)
+- The early identification of defects.
+
+Objectives
+- Assess the conformity of a product (criteria found in the Product Desctiption)
+- Provide wider acceptance (involve key intersted parites in checking the products quality 
+- Confirm the product is complete and ready for approval
+- Baseline the product for Change Control
+
+### Quality Review Procedure
+
+1. Review preparation
+2. Review agenda
+3. Review follow-up
+
+1. Review preparation
+- Time and location of meeting (where and when)
+- Who will attend
+- Distribute copy of product
+- Assess the product against quality criteria
+- Prepare a Question List for the Producer
+
+2. Review agenda
+- Discussion and clarification of any major errors
+- Agreement on appropriate actions
+- Agreement on the outcome of Quality Review
+- Sign-off of the product (if appropriate)
+- Document Actions & Responsibilities
+
+Results
+- Compelte (product is fit for purpose)
+- Conditionally Complete (Fit for purpose subject to the actions being completed 
+- Incomplete (the product requires another review cycle)
+
+3. Review follow-up
+- Completing actions
+- Communicating results (to management)
+- Storing/filing records produced durin the review
+- 
 
 
 
+### Quality Planning and Control
 
+Quality Planning
+- Objectives & requirements
+- Overall approach (in the Quality Mgmt Approach, during the Initiation stage)
+- Stage quality activities (ensuring quality is acheived)
 
+Customer Quality Expections
+- Docuyment in the Project Product Description
+- Project Initiation documentation
+
+Qualty Control (the means of ensuring that products meet the quality criteria specified for them)
+
+> Quality Control is about examining products to determine that they meet requirements, and normally takes place after some wokrk has been done.
+
+- Objectives & Requirements
+- Overall approach
+  - Quality mgmt approach (which is part of the Project Initiation documentation, created during the Initiation stage)
+
+Quality Methods
+In-Process (where specialists methods are used in the creation of the products and on-going quality inspections)
+Appraisal (where the finished products are assessed for compelteness, testing is carreid out where the Quality Criteria are objective and measureable.  Quality Inspection methods are used when some subjective judgement is required.
+
+> The Quality Review Technique is suggested by Prince2 which compliments the use of Product Descriptions. 
 
 # Change (Theme)
 
