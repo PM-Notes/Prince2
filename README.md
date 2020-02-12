@@ -233,7 +233,7 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 
 PBS Example: S3-3P18
 
-
+![PBS Example](https://github.com/NetDevNotes/prince2/blob/master/pbs-example.png)
 
 
 
