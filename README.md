@@ -233,15 +233,9 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 
 PBS Example: S3-3P18
 
-Channel Tunnel
-Cross-Channel Rail Link
-Tunnel | Pagganger Terminal | Rail System
 
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
+
+
 
 
 ### Product Description
