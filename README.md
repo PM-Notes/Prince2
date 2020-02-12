@@ -386,7 +386,24 @@ The pourpose of planning is to provide a secure basis for:
 
 ### Quality Control
 
+- Ensures products are fit for purpose
+- What we produce meets its quality criteria 
+- The results of quality checks are recorded in the Quality Register
 
+Quality control involves: 
+- Checking products meet their quality criteria (by testing, review and inspections)
+- Illimanate poor performance by implementing lessons learned in previous stages or projects.
+
+### Quality Assurance vs Project Assurance 
+
+Quality Assurance is NOT Project Assurance:
+
+Quality Assurance | Project Assurance
+----------------- | -----------------
+Check project is managed / directed correctly | Project Board Responsibility
+In line with corporate, programme, customer standards and policies | Each board memeber has their own set of responsibilities
+Indipendant of the project | NOT indipendent of the project 
+. | Cannot be delegated to the Project Manager, Project Support or Team Manager
 
 
 
