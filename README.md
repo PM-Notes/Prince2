@@ -369,8 +369,29 @@ Central to quality and we need to ensure we:
 ### Customer Quality Expectations (CQE)
 "A statement about the quality expected from the project product, captures in the project product description"
 
+Discussed and agreed with the customer in Starting up a project (SU) and should cover:
+- Key quality requirements (for the projects product)
+- Standards and processes (that should be applied)
+- Quality Management System Usage (How it will be used)
+- Assessment measurements (any measurement that may be useful in assessing whether the projects product meets the expectations
+
+> CQE are often expressed in broad terms at first, but as far as possible should be expanded into a measurable format and prioritised.
+
+The below people should have a shared understanding of these expectations:
+- Senior User
+- Senior Supplier
+- Project Manager
+
+Once the CQE has been established the **Acceptance Criteria** should be developed :point_right:
+
 ### Acceptance Criteria
+
 "A prioritised list of criteria that the project product must meet before the customer will accept it.  I.e. measurable definitions of the attributes required for the set of products to be acceptable to key stakeholders"
+
+> We can't always have it all, so the Acceptance Criteria needs to be prioritised which will help set the **Quality Tolerances**
+
+- Both CQE and Acceptance Criteria may develop over time as more is known about the solution.
+- Once finalised, any change must pass through the **Change Control process**
 
 ### Quality Planning
 
@@ -435,32 +456,9 @@ Two products at minimum need to be produced and maintained:
 - Act as a pointer for quality records
 - Summarises the number and type of activities undertaken
 
-### Customer Quality Expectations (CQE) AGAIN? Above..
 
-Discussed and agreed with the customer in Starting up a project (SU) and should cover:
-- Key quality requirements (for the projects product)
-- Standards and processes (that should be applied)
-- Quality Management System Usage (How it will be used)
-- Assessment measurements (any measurement that may be useful in assessing whether the projects product meets the expectations
 
-> CQE are often expressed in broad terms at first, but as far as possible should be expanded into a measurable format and prioritised.
 
-The below people should have a shared understanding of these expectations:
-- Senior User
-- Senior Supplier
-- Project Manager
-
-Once the CQE has been established the **Acceptance Criteria** should be developed :point_right:
-
-### Acceptance Criteria
-
-"Measurable definitions of the attributes required for a set of products to be acceptable to stakeholders"
-
-> We can't always have it all, so the Acceptance Criteria needs to be prioritised which will help set the **Quality Tolerances**
-
-> Both CQE and Acceptance Criteria may develop over time as more is known about the solution.
-
-> Once finalised, any change must pass through the **Change Control process**
 
 
 # Change (Theme)
