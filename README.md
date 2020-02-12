@@ -266,8 +266,6 @@ External Product = Ellipse/Circle
 
 Time flows in one direction, either from top to bottom or left to right.
 
-# Risk 
-
 # Risk (Theme)
 
 "An uncertain event that, should it occur, will have an effect on the achievement of objectives.  It consists of a combination of the probability of a perceived threat or opportunity occurring, and the magnitude of its impact on objectives."
