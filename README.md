@@ -356,12 +356,14 @@ Risk mgm process guide | Risks are idenified, assessed & controlled | Identified
 ### Quality Management
 "The coordinted activities to direct and control an organisation with regard to quality" 
 
-### Focus on Products
+The main aim of quality management is to ensure the products meet business expectations, and enable the desired benefits to be realised.
 
-We need to ensure we:
-  - Agree the customer's quality expectations and acceptance criteria
+### Focus on Products (Principle)
+
+Central to quality and we need to ensure we:
+  - Agree the customer's quality expectations and acceptance criteria for the project product
   - Identify the project's products
-  - Define the products in product descriptions
+  - Define the products in product descriptions (including the quality criteria, quality methods and the quality responsibilities)
   - Implement and track the quality methods used throughout the project
 
 ### Customer Quality Expectations (CQE)
@@ -369,6 +371,23 @@ We need to ensure we:
 
 ### Acceptance Criteria
 "A prioritised list of criteria that the project product must meet before the customer will accept it.  I.e. measurable definitions of the attributes required for the set of products to be acceptable to key stakeholders"
+
+### Quality Planning
+
+- Define the project's products
+- Define the quality criteria
+- Define the quality method (the way we check the product meets it criteria)
+- Define the quality respoinsibilities of those involved
+
+The pourpose of planning is to provide a secure basis for:
+- Project board agree to the expectations / acceptance criteria and the means on how it will be judged.
+- Communicating agreements with the stakeholders (for a common understanding on what the project is setting out to acheive)
+- Baseline the projects quality controls and tolerances (to ensiure we provide products that are fit for purpose)
+
+### Quality Control
+
+
+
 
 
 # Change (Theme)
