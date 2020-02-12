@@ -214,7 +214,7 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 4. Plan
 5. *Recommended* Product Flow Diagram (Link between product based planning and activity based planning)
 
-### Project Product Description !!!!!!!!!!!! COMMPLETE & PBS !!!!!!!!!!!!!!!!!!!!
+### Project Product Description
 - Purpose of the product
 - Products it consists of
 - Customer quality expectations
@@ -223,20 +223,18 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 
 ### Product Breakdown Structure (PBS)
 - Similar to the Work Breakdown Structure
-- Top down view of all the products a project is goin to generate
+- Used at Project and Stage Plan levels and optional for Team Plans.
+- Top down hirearchle view of all the products a project is goin to generate
 - Starting at top with the finished deliverable or outcome of the project
 - Then breaking each product down to its constituent components in a hirearacle structure
 - Before this can be done, a Project Product Description should be written
 - The Senior User is responsible for specifying the Project Product
 - But in practice the Project Manager will often complete the Project Product Description in conjunction with the Senior User and the Executive.
-- This provides a high-level scope of the project.
+- This effectively provides a high-level scope of the project.
 
-PBS Example: S3-3P18
+> Prince2 doesn not prescribe a format for a PBS, it could be a simple indented list, a mind-map or a digramtic structure. 
 
 ![PBS Example](https://github.com/NetDevNotes/prince2/blob/master/pbs-example.png)
-
-
-
 
 ### Product Description
 
@@ -595,7 +593,4 @@ Project Mandate
 Starting up a project (SU) - Outline business case\
 :arrow_down:\
 Project Brief\
-
-
-
-
+ 
