@@ -350,12 +350,28 @@ Risk mgm process guide | Risks are idenified, assessed & controlled | Identified
 
 # Quality (Theme)
 
+### Quality 
+"The degree to which a set of inherent characteristics of a produst, service, process, person, organisation, system or resource fulfils requirements"
+
+### Quality Management
+"The coordinted activities to direct and control an organisation with regard to quality" 
+
+### Focus on Products
+
+We need to ensure we:
+  - Agree the customer's quality expectations and acceptance criteria
+  - Identify the project's products
+  - Define the products in product descriptions
+  - Implement and track the quality methods used throughout the project
+
+### Customer Quality Expectations (CQE)
+"A statement about the quality expected from the project product, captures in the project product description"
+
+### Acceptance Criteria
+"A prioritised list of criteria that the project product must meet before the customer will accept it.  I.e. measurable definitions of the attributes required for the set of products to be acceptable to key stakeholders"
 
 
-
-
-
-
+# Change (Theme)
 
 # Processes (7)
 
