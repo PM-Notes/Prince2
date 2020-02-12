@@ -305,13 +305,13 @@ Should contain:
 - Risk response categories - Will document how the project will treat the risk, in terms of the projects chosen categories, e.g. for both Threats and Opportunities, we can chose to:
 
   - Prepare a contingent plan (a plan for if the risk occurs)
-  - Accept (make a consious decision to live with the risk)
+  - Accept (make a conscious decision to live with the risk)
   - Share (choose to share the loss should a risk occur, usually through a contact)
   - Transfer the risk (to a 3rd party via a contract)
  - Threat - Avoid (plan the activities so the risk is avoided altogether, or there is no impact) & Reduce (take some action to reduce the probability or impact)
 - Opportunity - Exploit (take action so the opportunity is realised) & Enhance (make it more likely to happen/increase the impact) 
 
-> Tip: It might help to rememnber PASTAR & PASTEE
+> Tip: It might help to remember PASTAR & PASTEE
 
 - Risk response - Will document any identified actions to resolve the risk and should be aligned to the chosen response categories. 
 
@@ -323,11 +323,11 @@ Should contain:
 
 ## Risk Management Procedure
 
-1. Identify - Identify the context and risks (examinin the Risk mgmt approach, project mandate, project brief, Project product description). Record risks in the Risk Register. Techniques to identify risks could be Review Lessons, Risk Checklists, Risk Prompt Lists, Brainstorming, Risk Breakdown Structures).
+1. Identify - Identify the context and risks (examining the Risk mgmt approach, project mandate, project brief, Project product description). Record risks in the Risk Register. Techniques to identify risks could be Review Lessons, Risk Checklists, Risk Prompt Lists, Brainstorming, Risk Breakdown Structures).
 2. Assess - Estimate and Evaluate.  Once identified, risks should be assessed in terms of their, Probability (how likely to happen?), Impact (what will happen if it does?), Proximity (when will it happen?). 
 3. Plan - Risk Responses (see above: Prepare Contingent Plan, Accept, Share, Transfer, Avoid, Reduce, Exploit, Enhance) - PASTAR/PASTEE
-4. Implement - Put the chosen Risk Response(s) into action.  Clear responsibilities need to be identified for the Risk Owner (management, monitor, control a particular risk assigent to them), this includes the implimentation of the selected responses to address the threat or maxamise the oportunities. The Risk Actionee who is assigned to carry out a particular risk action(s) and takes direction from the Risk Owner. 
-5. Communicate - Carried out in parallel with the other steps. Information about risks is commicated as part of the following reports:
+4. Implement - Put the chosen Risk Response(s) into action.  Clear responsibilities need to be identified for the Risk Owner (management, monitor, control a particular risk assigned to them), this includes the implementation of the selected responses to address the threat or maximise the opportunities. The Risk Actionee who is assigned to carry out a particular risk action(s) and takes direction from the Risk Owner. 
+5. Communicate - Carried out in parallel with the other steps. Information about risks is communicated as part of the following reports:
 
 - Checkpoint reports
 - Highlight reports
@@ -335,7 +335,7 @@ Should contain:
 - End project reports
 - Exception reports
 
-> The funding for risk mitigation actions needs to be considered, the money set aside for these activities is known as the Risk Budget, and forms part of the Project Budget. The more spent on managing risk, the less for other project activities. Risks need to be analysed to avoid spending too much on low priority risks, anbd not enough on high priority risks.
+> The funding for risk mitigation actions needs to be considered, the money set aside for these activities is known as the Risk Budget, and forms part of the Project Budget. The more spent on managing risk, the less for other project activities. Risks need to be analysed to avoid spending too much on low priority risks, and not enough on high priority risks.
 
 > Risk needs to be expresses in terms of its, Cause (the situation), Event (the threat), Effect (the result).
 
@@ -343,18 +343,18 @@ Should contain:
 
 Corportate or Program Management | Executive | Senior User | Senior Supplier | Project Manager | Team Manager | Project Assurance | Project Support
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
-Provide risk mgmt policy | Ensure risk mgmt approach exists | Ensures user risks are: | Ensures suppliers risks are: | Create Risk mgmt approach | Risk: | Revewing risk mgmt practices | Assit with maintenance of project risk register
-Risk mgm process guide | Risks are idenified, assessed & controlled | Identified | Identified | Creates/maintains Risk Register | Identification | Maintain alignment with risk mgmt approach | 
+Provide risk mgmt policy | Ensure risk mgmt approach exists | Ensures user risks are: | Ensures suppliers risks are: | Create Risk mgmt approach | Risk: | Reviewing risk mgmt practices | Assist with maintenance of project risk register
+Risk mgm process guide | Risks are identified, assessed & controlled | Identified | Identified | Creates/maintains Risk Register | Identification | Maintain alignment with risk mgmt approach | 
 . | Escalates as necessary | Assessed | Assessed | Risks are identified, assessed & controlled | Assessment | | 
 . | | Controlled | Controlled | | Control | | |
 
 # Quality (Theme)
 
 ### Quality 
-"The degree to which a set of inherent characteristics of a produst, service, process, person, organisation, system or resource fulfils requirements"
+"The degree to which a set of inherent characteristics of a product, service, process, person, organisation, system or resource fulfils requirements"
 
 ### Quality Management
-"The coordinted activities to direct and control an organisation with regard to quality" 
+"The coordinated activities to direct and control an organisation with regard to quality" 
 
 The main aim of quality management is to ensure the products meet business expectations, and enable the desired benefits to be realised.
 
@@ -377,12 +377,12 @@ Central to quality and we need to ensure we:
 - Define the project's products
 - Define the quality criteria
 - Define the quality method (the way we check the product meets it criteria)
-- Define the quality respoinsibilities of those involved
+- Define the quality responsibilities of those involved
 
-The pourpose of planning is to provide a secure basis for:
+The purpose of planning is to provide a secure basis for:
 - Project board agree to the expectations / acceptance criteria and the means on how it will be judged.
-- Communicating agreements with the stakeholders (for a common understanding on what the project is setting out to acheive)
-- Baseline the projects quality controls and tolerances (to ensiure we provide products that are fit for purpose)
+- Communicating agreements with the stakeholders (for a common understanding on what the project is setting out to achieve)
+- Baseline the projects quality controls and tolerances (to ensure we provide products that are fit for purpose)
 
 ### Quality Control
 
@@ -401,8 +401,8 @@ Quality Assurance is NOT Project Assurance:
 Quality Assurance | Project Assurance
 ----------------- | -----------------
 Check project is managed / directed correctly | Project Board Responsibility
-In line with corporate, programme, customer standards and policies | Each board memeber has their own set of responsibilities
-Indipendant of the project | NOT indipendent of the project 
+In line with corporate, programme, customer standards and policies | Each board member has their own set of responsibilities
+Independent of the project | NOT independent of the project 
 . | Cannot be delegated to the Project Manager, Project Support or Team Manager
 
 ### Minimum Requirements
@@ -411,16 +411,16 @@ Indipendant of the project | NOT indipendent of the project
   - The approach to quality control
   - The approach to project assurance
   - The way quality will be communicated through the life cycle
-  - The roles and responsibilities of thise involved
+  - The roles and responsibilities of those involved
   
-- Ensure the quality criteria for the procucts are specified in the product descriptions
+- Ensure the quality criteria for the products are specified in the product descriptions
 - Maintain quality records
-- Specify customer's quality expectations and accpetance criteria
+- Specify customer's quality expectations and acceptance criteria
 - Use lessons to inform planning (including defining quality criteria and expectations)
 
-Two products at minumum need to be produced and maintained:
+Two products at minimum need to be produced and maintained:
 
-1. Quality Management Approach - describes how qualilty will be managed, including:
+1. Quality Management Approach - describes how quality will be managed, including:
 - Processes
 - Procedures
 - Techniques
@@ -430,7 +430,7 @@ Two products at minumum need to be produced and maintained:
 
 2. Quality Register
 - Provides information for the end stage and end project reports
-- Sumarise all the quality activities
+- Summarise all the quality activities
 - Provides a unique reference for each quality activity
 - Act as a pointer for quality records
 - Summarises the number and type of activities undertaken
@@ -441,7 +441,7 @@ Discussed and agreed with the customer in Starting up a project (SU) and should 
 - Key quality requirements (for the projects product)
 - Standards and processes (that should be applied)
 - Quality Management System Usage (How it will be used)
-- Assessment measurements (any measurement that may be useful in assesing whether the projects product meets the expectations
+- Assessment measurements (any measurement that may be useful in assessing whether the projects product meets the expectations
 
 > CQE are often expressed in broad terms at first, but as far as possible should be expanded into a measurable format and prioritised.
 
@@ -458,9 +458,9 @@ Once the CQE has been established the **Acceptance Criteria** should be develope
 
 > We can't always have it all, so the Acceptance Criteria needs to be prioritised which will help set the **Quality Tolerances**
 
-> Both CQE and Acceptance Criteria may devcelop over time as more is known about the solution.
+> Both CQE and Acceptance Criteria may develop over time as more is known about the solution.
 
-> Once finalised, amy change must pass through the **Change Control process**
+> Once finalised, any change must pass through the **Change Control process**
 
 
 # Change (Theme)
