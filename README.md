@@ -548,9 +548,9 @@ Results
 - Once the Quality Review is compelte, the product is Approved by the appropriate management person or group.
 
 ### Quality Review Roles 
-Chair - Conducts review
+Chair - Conducts review and **checks the product is ready for review**
 Presenter - Introduces the product to the reviewers and represents the Producers of the product.
-Reviewer - Reviews the product
+Reviewer - Reviews the product and **checks it against its quality criteria**
 Administrator - Administrative suport to the Chair, records results and recommends actions.
 
 The above are roles not people, as such the minimum number of people who can carry out a review is 2
