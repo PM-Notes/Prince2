@@ -674,6 +674,19 @@ Project Support
 - Maintain configuration item records
 - Product status accounts
 
+### Minimum Requirements
+- Defines its Change Control Approach covering:
+  - How issues are identified and managed.
+  - Assessing whether issues have a material imoact on the project's business justification.
+  - The roles and responsibilities for Change Control.
+- Define how product baselines are creates, maintained and controlled.
+- Maintain somne form if Issues Register.
+- Ensure that issues are captured, examined, managed and revewied.
+- Use lessons to inform issue identification and management.
+
+Required Products
+- Issues Register
+- Change Control Approach
 
 # Processes (7)
 
