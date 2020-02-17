@@ -570,6 +570,111 @@ The above are roles not people, as such the minimum number of people who can car
 
 # Change (Theme)
 
+Issue & Change Control
+- Identification
+- Assessment
+- Control
+
+### Baseline 
+"Reference levels against which an entity is monitored and controlled"
+
+### Issue
+"Anything happening during the project which, unless resolved, will result in a change to a baseline product, plan or performance target (time, cost, scope, quality, risk and benefits).
+
+Request for Change
+Problem or concern
+Off specification
+
+Approach to Change
+
+Procedures for:
+- Change Control
+- Issues management
+- Records
+- Timing of activities
+- Assessment scales
+
+Change Control Approach
+Configuration item records
+- Status
+- Version
+- Variance
+Product status account
+- State of all products
+  - Within defined limits
+Daily log
+Issues reports
+- Description
+- Impact assessment
+- Recommendations for:
+   - Request for Change
+   - Off-Specification
+   - Problem/Concern
+Issues Register
+
+### Change Control Procedures
+
+Capture
+- Issue Report
+- Issue Register
+- Daily Log
+
+Assess
+Impact analysis on:
+- Project performance targets
+- Project Business Case
+- Project Risk Profile
+  - Risk Profile > Issue Register > Issue Report
+
+Propose
+Suggested actions:
+- Effects on time, cost, risks.
+
+Decide
+- Most appropriate course of action
+
+Implement
+- Amend plans/work packages
+- Create exception plan
+
+### Roles and Responsibilities
+
+Corporate or Program Management
+Strategy for:
+- Change Control
+- Issue resolution
+- Configuration Management
+
+Senior User
+- Raises issues
+- Ensures decisions focus on integrity of complete solution
+- Requests for advice
+
+Senior Supplier
+- Raises issues
+- Ensures decisions focus on expected benefits
+- Requests for advice
+
+Executive
+- Determines:
+  - Change authority
+  - Change budget
+- Severity rating for issues
+- Priority ratings for RFC and off-specification
+
+Project Manager
+- Raises issues to Project Board
+Manages Issue / change control procedure
+
+Project Assurance
+- Advice examining and resolving issues (Issue register)
+
+Project Support
+- Administer the issues and change control procedures
+- Maintain configuration item records
+- Product status accounts
+
+
 # Processes (7)
 
 [Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
