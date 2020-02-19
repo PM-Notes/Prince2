@@ -584,10 +584,10 @@ Issue & Change Control =
 ### Issue
 "Anything happening during the project which, unless resolved, will result in a change to a baseline product, plan or performance target (inc. time, cost, scope, quality, risk and benefits).
 
-3 Types of Issues which may arrise:
-- Request for Change (A proopsal to change a baseline).
+3 Types of Issues which may arise:
+- Request for Change (A proposal to change a baseline).
 - Off specification (Something that should be provided, but is currently not being provided or is forecast not to be provided).
-- Problem or concern (ANy other matter that requirtes the PM to either resolve or escalate to the Project Board 
+- Problem or concern (Any other matter that requires the PM to either resolve or escalate to the Project Board 
 for a decision or action).
 
 ### Approach to Change
@@ -611,7 +611,7 @@ Change Control Approach
 - Timing of activities
 - Assessment scales
 
-Change Authortity - The responsibility for agreeing to impliment a change  
+Change Authority - The responsibility for agreeing to implement a change  
 Change Budget - The method for funding changes
 Project Board - By default make decisions, but may delegate limited authority for day-to-day changes to the PM
 
@@ -626,11 +626,11 @@ Product Status Account
 Describes the status of all products within a set of limits for example:
 - Within a stage
 - A whole project
-- A particualr product
+- A particular product
 - Or a set of products
   
 Daily log
-Problems or concerns that the PM can manage informally, where an issue requires formal consideration, an Issue Report will be created and documentsed in the Issue Register.
+Problems or concerns that the PM can manage informally, where an issue requires formal consideration, an Issue Report will be created and documented in the Issue Register.
 
 Issues Register
 
@@ -643,10 +643,10 @@ Issues reports
    - Problem/Concern
 
 ### Change Control Procedures
-A common and systematic approcach for dealing with:
+A common and systematic approach for dealing with:
 - Requests For Change
 - Off-specifications
-- Problms or Concerns
+- Problems or Concerns
 
 ### 5 Step Process
 
@@ -659,7 +659,7 @@ A common and systematic approcach for dealing with:
 
 2. Assess
 The issue will be subject to an Impact Analysis to determine the impact on:
-- Project performance targets (time, cost, qualty, scope)
+- Project performance targets (time, cost, quality, scope)
 - Project Business Case (especially the impact on benefits)
 - Project Risk Profile (e.g the impact of the overall risk exposure of the project)
   - Risk Profile > Issue Register (results entered into the Issue Register) > Issue Report
@@ -708,7 +708,7 @@ Senior User
 Senior Supplier
 - Raises issues
 - Ensures decisions focus on expected benefits
-- RRespond to requests for advice (from the PM)
+- Respond to requests for advice (from the PM)
 
 Project Assurance
 - Advice examining and resolving issues (Issue register)
@@ -725,11 +725,11 @@ Team Manager
 ### Minimum Requirements
 - Defines its Change Control Approach covering:
   - How issues are identified and managed.
-  - Assessing whether issues have a material imoact on the project's business justification.
+  - Assessing whether issues have a material impact on the project's business justification.
   - The roles and responsibilities for Change Control.
 - Define how product baselines are creates, maintained and controlled.
-- Maintain somne form if Issues Register.
-- Ensure that issues are captured, examined, managed and revewied.
+- Maintain some form if Issues Register.
+- Ensure that issues are captured, examined, managed and reviewed.
 - Use lessons to inform issue identification and management.
 
 Required Products
@@ -738,11 +738,11 @@ Required Products
 
 # Progress (Theme)
 
-"To establish mechanisms to monitor and compare actual acheivements aainst those planned in order to provide a forecast for the project objectives, including its continued viability and control any unacceptable deviations"
+"To establish mechanisms to monitor and compare actual achievements against those planned in order to provide a forecast for the project objectives, including its continued viability and control any unacceptable deviations"
 
 Progress ensures that for each level of the management team, the level above can:
 - Monitor progresss
-- Compare acheivement with plan
+- Compare achievement with plan
 - Review plans and options against future situations
 - Detect problems
 - Identify risks
@@ -766,14 +766,14 @@ Project Board Controls
   - Project
   - Stage
   - Closure
-- Highlight Reports (preparted by PM using info from Checkpoint Reports (Team level), which are in turn produced as Work Packages are completed).
+- Highlight Reports (prepared by PM using info from Checkpoint Reports (Team level), which are in turn produced as Work Packages are completed).
 - Exception Reports
 - Issue Reports (early warning of any forecast deviation beyond tolerance levels, and issues requiring their attention).
 - Exception Assessment (jointly considers what action to take in a response to a forecast deviation).
 
 Project Manager 
 - Authorisations
-  - Work Packages (including setting WP tollerances)
+  - Work Packages (including setting WP tolerances)
 - Progress Updates 
   - Checkpoint reports from team managers or members
 - Exceptions and Changes (use of)
@@ -782,11 +782,11 @@ Project Manager
   - Product Status Account
   - Quality Register
   - Risk Register
-  - Update Lessons Log and Lessons Reports are issues as appropriate within the project, and definately at the end of the project.
+  - Update Lessons Log and Lessons Reports are issues as appropriate within the project, and definitely at the end of the project.
 
 ### Tolerance
 
-Projects don't always go 100% acording to plan and minor departues from plan will frequently occur.  
+Projects don't always go 100% according to plan and minor departures from plan will frequently occur.  
 To enable a project to run smoothly, without frequent and unnecessary communication between the different levels within the project team, Prince2 defines tolerances: 
 
 - Time
@@ -796,14 +796,14 @@ To enable a project to run smoothly, without frequent and unnecessary communicat
 - Benefit
 - Scope
 
-Tolerances are alocated initially by Coporate / Programme Management, then managed and implimented by the 3 levels of managemnt in the project:
+Tolerances are allocated initially by Corporate / Programme Management, then managed and implemented by the 3 levels of management in the project:
 1. Project Board (Directing)
 2. Project Manager (Managing)
 3. Team Manager (Delivering)
 
 Programme / Corporate Management sits outside the project, but sets the overall **Requirement** and **Tolerance Levels** for the project.
 
-The Project Board has overall control at a project level so long as forecasts remain within project tolerances and will also alocate tolerance for each Management Stage to the PM.  The Project Board has the ability to review progress and decide whether to continue, change or stop the project. If project tollerances are forecast to be exceeded, the Project Board can request advice from Corporate / Programme Management in order to get a decision on corrective action.
+The Project Board has overall control at a project level so long as forecasts remain within project tolerances and will also allocate tolerance for each Management Stage to the PM.  The Project Board has the ability to review progress and decide whether to continue, change or stop the project. If project tolerances are forecast to be exceeded, the Project Board can request advice from Corporate / Programme Management in order to get a decision on corrective action.
 
 > Any forecast breaches of project tolerance should be escalated (Issue and Exception Reports)
   
