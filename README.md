@@ -736,6 +736,59 @@ Required Products
 - Issues Register
 - Change Control Approach
 
+# Progress (Theme)
+
+"To establish mechanisms to monitor and compare actual acheivements aainst those planned in order to provide a forecast for the project objectives, including its continued viability and control any unacceptable deviations"
+
+Progress ensures that for each level of the management team, the level above can:
+- Monitor progresss
+- Compare acheivement with plan
+- Review plans and options against future situations
+- Detect problems
+- Identify risks
+- Initiate corrective action
+- Authorise further work
+
+### Controls
+
+Prince2 provides 2 types of Controls throughout the project:
+
+- Time Driven (defined frequency)
+  - Checkpoint reports (from Team Manager)
+  - Highlight reports (to Project Board during the stage, so no need for progress meetings during the stage)
+- Event Driven (when a specific event occurs)
+  - Exception report (to the Project Board if an exception situation is forecast)
+  - End stage report
+
+Project Board Controls
+- Authorisations
+  - Initiation
+  - Project
+  - Stage
+  - Closure
+- Highlight Reports (preparted by PM using info from Checkpoint Reports (Team level), which are in turn produced as Work Packages are completed).
+- Exception Reports
+- Issue Reports (early warning of any forecast deviation beyond tolerance levels, and issues requiring their attention).
+- Exception Assessment (jointly considers what action to take in a response to a forecast deviation).
+
+Project Manager 
+- Authorisations
+  - Work Packages (including setting WP tollerances)
+- Progress Updates 
+  - Checkpoint reports from team managers or members
+- Exceptions and Changes (use of)
+  - Daily Log
+  - Issue Register
+  - Product Status Account
+  - Quality Register
+  - Risk Register
+  - Update Lessons Log and Lessons Reports are issues as appropriate within the project, and definately at the end of the project.
+
+### Tolerance
+
+
+  
+  
 # Processes (7)
 
 [Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
