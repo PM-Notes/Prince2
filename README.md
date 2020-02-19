@@ -759,6 +759,7 @@ Prince2 provides 2 types of Controls throughout the project:
 - Event Driven (when a specific event occurs)
   - Exception report (to the Project Board if an exception situation is forecast)
   - End stage report
+  - Authorising a Stage Plan
 
 Project Board Controls
 - Authorisations
