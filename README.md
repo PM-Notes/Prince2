@@ -791,10 +791,10 @@ To enable a project to run smoothly, without frequent and unnecessary communicat
 
 - Time
 - Cost
+- Scope
 - Quality
 - Risk
 - Benefit
-- Scope
 
 Tolerances are allocated initially by Corporate / Programme Management, then managed and implemented by the 3 levels of management in the project:
 1. Project Board (Directing)
@@ -806,8 +806,27 @@ Programme / Corporate Management sits outside the project, but sets the overall 
 The Project Board has overall control at a project level so long as forecasts remain within project tolerances and will also allocate tolerance for each Management Stage to the PM.  The Project Board has the ability to review progress and decide whether to continue, change or stop the project. If project tolerances are forecast to be exceeded, the Project Board can request advice from Corporate / Programme Management in order to get a decision on corrective action.
 
 > Any forecast breaches of project tolerance should be escalated (Issue and Exception Reports)
-  
-# Processes (7)
+
+Tolerance for Time, Cost Scope are set in Project Plan, Stage Plans and Work Packages.
+Tolerance for Risk is set in Risk Management Approach, Stage Plans and Work Packages.
+Tolerance for Quality is set in the Project Product Description and Product Descriptions.
+Tolerance for Benefits is set in the Business Case.
+
+### Minimum Requirements for Progress Theme
+
+- Define its approach to controlling progress in the PID
+- Be managed in stages
+- Set tolerances and be Managed by Exception against these tolerances
+- Review the Business Justification when exceptions are raised
+- Learn Lessons to imoprove performance
+
+Control in the project is provided by:
+- Delegating authority downward through the team structure (Corporate / Programme > Project Board > Project Management > Team Manager)
+- Devide the project in to Management Stages
+- Having in place Time-driven (Checkpoint/HIghlight) and Event-driven (Exception/End Stage) progress reporting.
+- Raising exceptions
+
+# Processes Model (7)
 
 [Process Model Diagram](https://www.knowledgetrain.co/res/ebooks/prince2-process-model.pdf)
 
