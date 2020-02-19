@@ -651,56 +651,64 @@ A common and systematic approcach for dealing with:
 ### 5 Step Process
 
 1. Capture
-- Issue Report
-- Issue Register
-- Daily Log
+- Analyse issue to see if it can be handled informally?  If so note in Daily Log and resolve.
+- If the issue required a more formal approach, and Issue report should be raised and entered into the Issue Register.
+  - Issue Report
+  - Issue Register
+  - Daily Log
 
 2. Assess
-Impact analysis on:
-- Project performance targets
-- Project Business Case
-- Project Risk Profile
-  - Risk Profile > Issue Register > Issue Report
+The issue will be subject to an Impact Analysis to determine the impact on:
+- Project performance targets (time, cost, qualty, scope)
+- Project Business Case (especially the impact on benefits)
+- Project Risk Profile (e.g the impact of the overall risk exposure of the project)
+  - Risk Profile > Issue Register (results entered into the Issue Register) > Issue Report
 
 3. Propose
+Once we understand the issue, we need to consider the most appropriate course of action:
+- There are often a number of options for consideration and each most be reviewed on its effect on:
 Suggested actions:
 - Effects on time, cost, risks.
 
 4. Decide
-- Most appropriate course of action
+- Make a decision on the most appropriate course of action.
+- The PM might be able to do this, or may escalate to the Project Board.
 
-5 .Implement
-- Amend plans/work packages
-- Create exception plan
+5. Implement
+- Amend the plans or work packages to take the necessary action
+- Create exception plan (for approval by the Project Board)
 
 ### Roles and Responsibilities
 
-Corporate or Program Management
+Corporate or Program Management (Highest Level)
 Strategy for:
 - Change Control
 - Issue resolution
 - Configuration Management
 
-Senior User
-- Raises issues
-- Ensures decisions focus on integrity of complete solution
-- Requests for advice
-
-Senior Supplier
-- Raises issues
-- Ensures decisions focus on expected benefits
-- Requests for advice
-
 Executive
 - Determines:
   - Change authority
   - Change budget
-- Severity rating for issues
-- Priority ratings for RFC and off-specification
+- Setting the scale for Severity Rating for issues
+- Priority ratings for RFC and off-specifications
+- Respond to requests for advice (from the PM)
+- Make decisions on escalated issues, with particular focus on Continued Business Justification.
 
 Project Manager
 - Raises issues to Project Board
-Manages Issue / change control procedure
+- Manages Issue 
+- Manage change control procedure
+
+Senior User
+- Raises concerns in forms of issues (safeguards the expected benefits)
+- Ensures decisions focus on integrity of complete solution
+- Respond to requests for advice (from the PM)
+
+Senior Supplier
+- Raises issues
+- Ensures decisions focus on expected benefits
+- RRespond to requests for advice (from the PM)
 
 Project Assurance
 - Advice examining and resolving issues (Issue register)
@@ -708,7 +716,11 @@ Project Assurance
 Project Support
 - Administer the issues and change control procedures
 - Maintain configuration item records
-- Product status accounts
+- Produce Product Status Accounts
+- Assist PM in maintaining the Issue Register
+
+Team Manager
+- Raises issues to the PM
 
 ### Minimum Requirements
 - Defines its Change Control Approach covering:
