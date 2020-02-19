@@ -786,8 +786,26 @@ Project Manager
 
 ### Tolerance
 
+Projects don't always go 100% acording to plan and minor departues from plan will frequently occur.  
+To enable a project to run smoothly, without frequent and unnecessary communication between the different levels within the project team, Prince2 defines tolerances: 
 
-  
+- Time
+- Cost
+- Quality
+- Risk
+- Benefit
+- Scope
+
+Tolerances are alocated initially by Coporate / Programme Management, then managed and implimented by the 3 levels of managemnt in the project:
+1. Project Board (Directing)
+2. Project Manager (Managing)
+3. Team Manager (Delivering)
+
+Programme / Corporate Management sits outside the project, but sets the overall **Requirement** and **Tolerance Levels** for the project.
+
+The Project Board has overall control at a project level so long as forecasts remain within project tolerances and will also alocate tolerance for each Management Stage to the PM.  The Project Board has the ability to review progress and decide whether to continue, change or stop the project. If project tollerances are forecast to be exceeded, the Project Board can request advice from Corporate / Programme Management in order to get a decision on corrective action.
+
+> Any forecast breaches of project tolerance should be escalated (Issue and Exception Reports)
   
 # Processes (7)
 
