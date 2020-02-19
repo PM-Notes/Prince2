@@ -570,7 +570,10 @@ The above are roles not people, as such the minimum number of people who can car
 
 # Change (Theme)
 
-Issue & Change Control
+Purpose
+"Identify, assess and control any potential and approved changes to the project baselines"
+
+Issue & Change Control =
 - Identification
 - Assessment
 - Control
@@ -579,13 +582,15 @@ Issue & Change Control
 "Reference levels against which an entity is monitored and controlled"
 
 ### Issue
-"Anything happening during the project which, unless resolved, will result in a change to a baseline product, plan or performance target (time, cost, scope, quality, risk and benefits).
+"Anything happening during the project which, unless resolved, will result in a change to a baseline product, plan or performance target (inc. time, cost, scope, quality, risk and benefits).
 
-Request for Change
-Problem or concern
-Off specification
+3 Types of Issues which may arrise:
+- Request for Change (A proopsal to change a baseline).
+- Off specification (Something that should be provided, but is currently not being provided or is forecast not to be provided).
+- Problem or concern (ANy other matter that requirtes the PM to either resolve or escalate to the Project Board 
+for a decision or action).
 
-Approach to Change
+### Approach to Change
 
 Procedures for:
 - Change Control
@@ -594,15 +599,41 @@ Procedures for:
 - Timing of activities
 - Assessment scales
 
+### Products used as part of Change Control process
+
 Change Control Approach
-Configuration item records
+- Created during Initiating a Project
+- Kept be under review
+- And if necessary refined and updated by the Managing a Stage Boundary process
+- Will document the procedure for Change Control & Issue management
+- Will specify role and responsibilities for Change Control & Issue management
+- Records
+- Timing of activities
+- Assessment scales
+
+Change Authortity - The responsibility for agreeing to impliment a change  
+Change Budget - The method for funding changes
+Project Board - By default make decisions, but may delegate limited authority for day-to-day changes to the PM
+
+Configuration Item Records 
+Documented information about a product and includes:
 - Status
 - Version
-- Variance
-Product status account
-- State of all products
-  - Within defined limits
+- Variance 
+(of each CI and the relationship between them)
+
+Product Status Account
+Describes the status of all products within a set of limits for example:
+- Within a stage
+- A whole project
+- A particualr product
+- Or a set of products
+  
 Daily log
+Problems or concerns that the PM can manage informally, where an issue requires formal consideration, an Issue Report will be created and documentsed in the Issue Register.
+
+Issues Register
+
 Issues reports
 - Description
 - Impact assessment
@@ -610,30 +641,35 @@ Issues reports
    - Request for Change
    - Off-Specification
    - Problem/Concern
-Issues Register
 
 ### Change Control Procedures
+A common and systematic approcach for dealing with:
+- Requests For Change
+- Off-specifications
+- Problms or Concerns
 
-Capture
+### 5 Step Process
+
+1. Capture
 - Issue Report
 - Issue Register
 - Daily Log
 
-Assess
+2. Assess
 Impact analysis on:
 - Project performance targets
 - Project Business Case
 - Project Risk Profile
   - Risk Profile > Issue Register > Issue Report
 
-Propose
+3. Propose
 Suggested actions:
 - Effects on time, cost, risks.
 
-Decide
+4. Decide
 - Most appropriate course of action
 
-Implement
+5 .Implement
 - Amend plans/work packages
 - Create exception plan
 
