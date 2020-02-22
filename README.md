@@ -928,5 +928,5 @@ The below are approived by the Project Board at the end of the IP process:
 - Benefits Mgmt Approach
 - Next Stage Plann
 
-
+## Controlling a Stage(CS)
 
