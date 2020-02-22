@@ -898,4 +898,35 @@ Project Brief
 9. How the Corporate, Programme Management or Customer method will be tailored to suit the project.
 10. How needs information, in what format and at what time.
 
+> By using IP we can lay down the **foundation** requried to acheive a sucessfull project and makes sure the Project Board can decide if the project is sufficently alligned with Corporate, Programme or Customer objectives.
+
+Initiating a Project provides Stakeholders:
+- What? What it must acheive
+- Why? Why it is needed
+- How? How the outcome will be acheived
+- Who? Who will be involved and their responsibilities.
+
+> If the Customer/Supplier relationship is Commercial, further consideration will be required.
+
+Using the outputs from SU, the Project Initiation Documentation (PID) is assembled during the final activity of Initiating a Project (IP).  
+
+### The IP process comprises of 9 activities:
+
+1. Agree the tailoring requirements
+2. Prepare the Risk Mgmt Approach
+3. Prepare the Change Control Approach
+4. Prepare the Quality Mgmt Approach
+5. Prepare the Communications Mgmt Approach
+6. Prepare the Benefits Mgmt Approach
+7. Setup the project Controls
+8. Create the Project Plan
+9. Prepare the benefits Mgmt Approach
+10. Assemble the Project Initiation Documentation (PID)
+
+The below are approived by the Project Board at the end of the IP process:
+- Project Initiation Documentation (PID)
+- Benefits Mgmt Approach
+- Next Stage Plann
+
+
 
