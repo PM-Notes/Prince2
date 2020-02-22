@@ -884,4 +884,18 @@ Project Brief
 6. Daily Log
 
 ## Initiating a Project
+"Establishes solid foundation for the project so that the organisation can underatand the work that needs to be done to deliver the project's products before committing to significant expense"
+
+### Objectives of IP (10)
+1. The reason for doing the project, the benefits expected and the associated risks.
+2. How and when the project's products will be delivered and at what cost.
+3. How the qiality required will be acheived.
+4. How risks, issues and changes will be identified, assessed and controlled.
+5. How progress will be monitored and controlled.
+6. The scope of what is to be done and the products to be delivered.
+7. Who is to be involvedin the project decision making.
+8. How baselines will be establisjed and controlled.
+9. How the Corporate, Programme Management or Customer method will be tailored to suit the project.
+10. How needs information, in what format and at what time.
+
 
