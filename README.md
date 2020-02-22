@@ -841,11 +841,47 @@ Num | Process| Description
 6 | CP Closing a Project | Used by the PM to handover the projects products to the Customer and close the project 
 7 | DP Directing a Project | Used by the Project Board to make decisions and provide advice and guidance
 
-## SU
+## Starting up a Project (SU)
+ 
+Purpose is to ensure that the prerequesits to Initiating a Project are in place, by answering the question "Do we have a viable and worthwhile project?"
 
-Project Mandate  
+The aim is to do the minimum necessary to determine if the project is worthwhile to proceed.
+
+Project Mandate (Input/Trigger)
+- Varies in format, could include a feasibility so extensive, or short less formal request.
 :arrow_down:\
 Starting up a project (SU) - Outline business case\
 :arrow_down:\
-Project Brief\
- 
+Project Brief
+- Mandate is refined into the Project Brief during SU.
+- Project Brief is externed and refined during IP to create the PID.
+
+### Key Objectives of the SU Process (7)
+1. There is business justification for moving into IP.
+  - Documented in the **Outline Business Case**
+2. All the required authorities exist for Iniating a Project
+3. There is enough information available to define and confirm the scope of the project within the Project Brief.
+4. The ways the project can be delivered has been reviewed and a suitable project approach selected.
+5. We have appointed individuals to do the work of IP
+  - And/or take significant project management roles in the project.
+6. We have planned the work to be done in IP.
+7. We are not wasting time Initiatin a Project based on unsound assumptions.
+
+### Activities (6)
+1. Appoint the Executive of the Project Board (first) and the PM.
+2. Capture previous lessons (Lessons Log created from previous relevant lessons and subsequent lessons added)
+3. Design and appoint the Project Management Team
+4. Prepare the **outline** Business Case (and Project Product Description) - This is the justification and both will be refined during the Initiation Stage.
+5. Select the project approach and assemble the Project Brief (Project Mandate develops into the Project Brief and states the Scope and Definition of the project).  The way in which the solution will be delivered is described in the Project Approach which is done alongside the Project Brief during the Select the Project Approach and Assemble the Project Brief activitiy.
+6. Plan the Initiation Stage (Plan for initiation stage (identify and schedule) to make sure the work taking place in the Initiation Stage is understood as it will take time and consume resources). 
+
+### Outputs for SU
+1. Project Management Team
+2. Project Brief
+3. Project Approach
+4. Plan for Initiation Stage
+5. Lessons Log 
+6. Daily Log
+
+## Initiating a Project
+
