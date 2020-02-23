@@ -930,3 +930,41 @@ The below are approived by the Project Board at the end of the IP process:
 
 ## Controlling a Stage(CS)
 
+"To assign work to be done, monitor such work, deal with issues, report progress to the Project Board and take corrective actions to ensure that the management stage remains within tolerance"
+
+- Forms the main part of the PM work
+- Provides direction for the day-to-day management of the stage, and the overall project
+- Usually the CS process is first used once the Project Board has authorised the project
+- But may also be used in the Initiation stage especially in large or complex projects
+
+Throughout a Management Stage, **Controlling a Stage** is uses the below activities to create a cycle of:
+- Work Packages 
+  - Authorising Work Package (signing-off)
+  - Review Work Package status
+  - Receive completed Work Packages
+- Monitoring & Reporting
+  - Review stage status
+  - Report Highlights
+- Issues (revewing and triggering new WP's if appropriate)
+  - Capture and examine issues and risks
+  - Escalate issues and risks
+  - Take corrective actions
+
+### CS Process Objectives (5)
+1. The attention is focused on delivering the products
+  - Movement away from the direction agreed at the start of the stage is monitored
+2. The risks and issues are kept under control
+3. The Business Case is kept under review
+4. The agreed products are delivered to the stated:
+  - Quality standard
+  - Within Cost, Time and Effort targets
+  - In support of the agreed benefits
+5. That the project manageent team is focused on delivery within the tolerances
+
+## Managing Product Delivery (MP)
+- Where the Team undertake the work itself
+
+
+
+## Managing a Stage Boundary (SB)
+- Prepares for the End Stage Assessment with the Project Board
