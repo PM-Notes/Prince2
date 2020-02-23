@@ -928,7 +928,7 @@ The below are approived by the Project Board at the end of the IP process:
 - Benefits Mgmt Approach
 - Next Stage Plann
 
-## Controlling a Stage(CS)
+## Controlling a Stage (CS)
 
 "To assign work to be done, monitor such work, deal with issues, report progress to the Project Board and take corrective actions to ensure that the management stage remains within tolerance"
 
@@ -946,9 +946,14 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
   - Review stage status
   - Report Highlights
 - Issues (revewing and triggering new WP's if appropriate)
-  - Capture and examine issues and risks
+  - Capture and examine issues and risks 
   - Escalate issues and risks
-  - Take corrective actions
+  - Take corrective actions (any action taken to maintain the project schedule, e.g modifyig an existing WP or creating a new one)
+  
+> Issues that can be managed infomrally should be noted in the Daily Log, otherwise they should be entered into the Issue register and analysed further.
+
+> Risks go into the Risk Register, if the issue or risk cannot be resolved within tolerance, escalate to the Project Board via an Exception Report using the "Escalate issues and risks" CS activity.
+
 
 ### CS Process Objectives (5)
 1. The attention is focused on delivering the products
@@ -962,7 +967,35 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
 5. That the project manageent team is focused on delivery within the tolerances
 
 ## Managing Product Delivery (MP)
+Purpose - "Control the link between the PM and the Team Manager or Managers, by agreeing the requirements for acceptance, execution and delivery"
 - Where the Team undertake the work itself
+- The Team Managers can be internat or external
+
+### MP Process Objectives (5)
+1. That the work on products allocated to the team is authorised and agreed.
+2. That the TEam Managers, team members and Suppliers are clear about:
+  - What will be produced
+  - What is the expected effort, cost or timescales
+3. That the planned products are delivered to expectations and withi tolerances
+4. That accurate progress information is provided to the PM at an agreed frequency (to ensure expectations are managed).
+
+### The MP process comprises of 3 activities:
+1. Accept work package
+2. Execute work package
+3. Deliver work package
+
+### The CS and MP processes interact as the project progresses, for example:
+- The CS activity "Authorise a WP" hands off to the MP activity "Accept a WP"
+- As work progresses in the MP activity "Execute a WP", checkpoint reports will be issued by the Team Manager to the PM who will review them in the CS activity "Review WP status"
+- When the work is completed, the Team Manager will advise the PM by the MP process "Deliver WP", and the PM will consider this in the CS activity "Receive competed WP" and will ensure all the work has been compelted before signing off the WP.
+- Throughout the above interactions, the PM will perform daily monitoring and reporting via 2 activities:
+  - Review the Management Stage Status (PM looks at the big picture of the project, looking at what has happened (Actual) vs what was expected (Planned).
+  - The PM will then review the next chunk of work and make sure risks and issues are under control, and if necessary triggering corrective action.
+- At a frequency defined by the Project Board, the PM will issue a Highlights Report to inform the board of progress (as described in the Report Highights CS activity).
+
+
+
+
 
 
 
