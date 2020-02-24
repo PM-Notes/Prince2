@@ -936,6 +936,8 @@ The below are approived by the Project Board at the end of the IP process:
 - Provides direction for the day-to-day management of the stage, and the overall project
 - Usually the CS process is first used once the Project Board has authorised the project
 - But may also be used in the Initiation stage especially in large or complex projects
+- Risk and issue are kept under control
+- The business case is kept under review
 
 Throughout a Management Stage, **Controlling a Stage** is uses the below activities to create a cycle of:
 - Work Packages 
@@ -954,7 +956,6 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
 
 > Risks go into the Risk Register, if the issue or risk cannot be resolved within tolerance, escalate to the Project Board via an Exception Report using the "Escalate issues and risks" CS activity.
 
-
 ### CS Process Objectives (5)
 1. The attention is focused on delivering the products
   - Movement away from the direction agreed at the start of the stage is monitored
@@ -967,9 +968,13 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
 5. That the project manageent team is focused on delivery within the tolerances
 
 ## Managing Product Delivery (MP)
-Purpose - "Control the link between the PM and the Team Manager or Managers, by agreeing the requirements for acceptance, execution and delivery"
+
+Purpose "Control the link between the PM and the Team Manager or Managers, by agreeing the requirements for acceptance, execution and delivery"
+
 - Where the Team undertake the work itself
 - The Team Managers can be internat or external
+- The planned products are delivered to expectations and within tolerance
+- Work on products alocated to the team are authorised and agreed
 
 ### MP Process Objectives (5)
 1. That the work on products allocated to the team is authorised and agreed.
@@ -993,11 +998,20 @@ Purpose - "Control the link between the PM and the Team Manager or Managers, by 
   - The PM will then review the next chunk of work and make sure risks and issues are under control, and if necessary triggering corrective action.
 - At a frequency defined by the Project Board, the PM will issue a Highlights Report to inform the board of progress (as described in the Report Highights CS activity).
 
-
-
-
-
-
-
 ## Managing a Stage Boundary (SB)
+
+Purpose "Enables the PM to provide the Project Board with sufficent information to:"
+
+- Review the success of the current Management Stage.
+- Approve the next stage plan.
+- Review the updated project plan.
+- Confirm the continued business justification and acceptability of risks.
+- The process is executed at or close to the end of each Management Stage.
+- Exception plans are prepared in SB and submitted to the Projeect Board for approval (in the same way as a Stage Plan).
 - Prepares for the End Stage Assessment with the Project Board
+
+> Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
+
+### MP Process Objectives (5)
+
+
