@@ -1004,7 +1004,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 
 - Review the success of the current Management Stage.
 - Approve the next stage plan.
-- Review the updated project plan.
+- Review the **updated project plan**.
 - Confirm the continued business justification and acceptability of risks.
 - The process is executed at or close to the end of each Management Stage.
 - Exception plans are prepared in SB and submitted to the Projeect Board for approval (in the same way as a Stage Plan).
