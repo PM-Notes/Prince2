@@ -1012,7 +1012,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 
 > Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
 
-### SB Process Objectives (Normal course of events)
+### SB Process Objectives (normal course of events)
 1. Assure the Project Board that all products in the current Stage Plan have been completed as defined.
 2. Prepare the Stage Plan for the Next Stage
 3. Review and if necessary update the **PID**, in particular:
@@ -1024,7 +1024,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 5. Record any Lessons or information that can help later stages or other projects.
 6. Request authorisation to start the next management stage.
 
-### SB Process Objectives (in Exception)
+### SB Process Objectives (when dealin with Exceptions)
 1. Review and if necessary update the PID, in particular:
 - Customer Quality Expectations
 - Project Approaches
@@ -1034,6 +1034,32 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 3. Prepare an Exception Plan
 4. Seek approval to replace the project or stage plan for the current stage with the exception plan.
 
+> SB is not used in the final stage of the project **unless** an exception plan is needed.  This is because the activities needed to review the whole project and the performance of the final stage are inclued within the **Closing A Project** process.
+
+### SB Activities
+Normal - Activities
+- Plan the next stage management stage
+- Update the Project Plan
+- Update the Business Case
+- Report management stage end
+Normal - Outputs
+- End stage report
+- Next stage plan
+- Request to approve next stage plan
+
+Exception - Activities
+If a stage or project is in exception the firsts activity will be replaced with:
+- Produce an exception plan
+Exception - Outputs
+- Exception Plan
+- End stage report (optional and if requested by the Project Board)
+- Request to approve exception plan
+
+> The Outputs of Manageing a Stage Boundary (SB) feed into the **Directing a Project Process**, in particular the activity **Authorise Stage or Exception Plan**
 
 
-### SB Process Objectives (in exception)
+
+
+
+
+
