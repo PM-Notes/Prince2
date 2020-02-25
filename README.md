@@ -819,12 +819,12 @@ Tolerance for Benefits is set in the Business Case.
 - Be managed in stages
 - Set tolerances and be Managed by Exception against these tolerances
 - Review the Business Justification when exceptions are raised
-- Learn Lessons to imoprove performance
+- Learn Lessons to improve performance
 
 Control in the project is provided by:
 - Delegating authority downward through the team structure (Corporate / Programme > Project Board > Project Management > Team Manager)
-- Devide the project in to Management Stages
-- Having in place Time-driven (Checkpoint/HIghlight) and Event-driven (Exception/End Stage) progress reporting.
+- Divide the project in to Management Stages
+- Having in place Time-driven (Checkpoint/Highlight) and Event-driven (Exception/End Stage) progress reporting.
 - Raising exceptions
 
 # Processes Model (7)
@@ -843,7 +843,7 @@ Num | Process| Description
 
 ## Starting up a Project (SU)
  
-Purpose is to ensure that the prerequesits to Initiating a Project are in place, by answering the question "Do we have a viable and worthwhile project?"
+Purpose is to ensure that the prerequisites to Initiating a Project are in place, by answering the question "Do we have a viable and worthwhile project?"
 
 The aim is to do the minimum necessary to determine if the project is worthwhile to proceed.
 
@@ -854,25 +854,25 @@ Starting up a project (SU) - Outline business case\
 :arrow_down:\
 Project Brief
 - Mandate is refined into the Project Brief during SU.
-- Project Brief is externed and refined during IP to create the PID.
+- Project Brief is extended and refined during IP to create the PID.
 
 ### Key Objectives of the SU Process (7)
 1. There is business justification for moving into IP.
   - Documented in the **Outline Business Case**
-2. All the required authorities exist for Iniating a Project
+2. All the required authorities exist for Initiating a Project
 3. There is enough information available to define and confirm the scope of the project within the Project Brief.
 4. The ways the project can be delivered has been reviewed and a suitable project approach selected.
 5. We have appointed individuals to do the work of IP
   - And/or take significant project management roles in the project.
 6. We have planned the work to be done in IP.
-7. We are not wasting time Initiatin a Project based on unsound assumptions.
+7. We are not wasting time Initiating a Project based on unsound assumptions.
 
 ### Activities (6)
 1. Appoint the Executive of the Project Board (first) and the PM.
 2. Capture previous lessons (Lessons Log created from previous relevant lessons and subsequent lessons added)
 3. Design and appoint the Project Management Team
 4. Prepare the **outline** Business Case (and Project Product Description) - This is the justification and both will be refined during the Initiation Stage.
-5. Select the project approach and assemble the Project Brief (Project Mandate develops into the Project Brief and states the Scope and Definition of the project).  The way in which the solution will be delivered is described in the Project Approach which is done alongside the Project Brief during the Select the Project Approach and Assemble the Project Brief activitiy.
+5. Select the project approach and assemble the Project Brief (Project Mandate develops into the Project Brief and states the Scope and Definition of the project).  The way in which the solution will be delivered is described in the Project Approach which is done alongside the Project Brief during the Select the Project Approach and Assemble the Project Brief activity.
 6. Plan the Initiation Stage (Plan for initiation stage (identify and schedule) to make sure the work taking place in the Initiation Stage is understood as it will take time and consume resources). 
 
 ### Outputs for SU
@@ -889,21 +889,21 @@ Project Brief
 ### Objectives of IP (10)
 1. The reason for doing the project, the benefits expected and the associated risks.
 2. How and when the project's products will be delivered and at what cost.
-3. How the qiality required will be acheived.
+3. How the quality required will be achieved.
 4. How risks, issues and changes will be identified, assessed and controlled.
 5. How progress will be monitored and controlled.
 6. The scope of what is to be done and the products to be delivered.
-7. Who is to be involvedin the project decision making.
-8. How baselines will be establisjed and controlled.
+7. Who is to be involved in the project decision making.
+8. How baselines will be established and controlled.
 9. How the Corporate, Programme Management or Customer method will be tailored to suit the project.
 10. How needs information, in what format and at what time.
 
-> By using IP we can lay down the **foundation** requried to acheive a sucessfull project and makes sure the Project Board can decide if the project is sufficently alligned with Corporate, Programme or Customer objectives.
+> By using IP we can lay down the **foundation** required to achieve a successful project and makes sure the Project Board can decide if the project is sufficiently aligned with Corporate, Programme or Customer objectives.
 
 Initiating a Project provides Stakeholders:
-- What? What it must acheive
+- What? What it must achieve
 - Why? Why it is needed
-- How? How the outcome will be acheived
+- How? How the outcome will be achieved
 - Who? Who will be involved and their responsibilities.
 
 > If the Customer/Supplier relationship is Commercial, further consideration will be required.
@@ -923,10 +923,10 @@ Using the outputs from SU, the Project Initiation Documentation (PID) is assembl
 9. Prepare the benefits Mgmt Approach
 10. Assemble the Project Initiation Documentation (PID)
 
-The below are approived by the Project Board at the end of the IP process:
+The below are approved by the Project Board at the end of the IP process:
 - Project Initiation Documentation (PID)
 - Benefits Mgmt Approach
-- Next Stage Plann
+- Next Stage Plan
 
 ## Controlling a Stage (CS)
 
@@ -947,12 +947,12 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
 - Monitoring & Reporting
   - Review stage status
   - Report Highlights
-- Issues (revewing and triggering new WP's if appropriate)
+- Issues (reviewing and triggering new WP's if appropriate)
   - Capture and examine issues and risks 
   - Escalate issues and risks
-  - Take corrective actions (any action taken to maintain the project schedule, e.g modifyig an existing WP or creating a new one)
+  - Take corrective actions (any action taken to maintain the project schedule, e.g modifying an existing WP or creating a new one)
   
-> Issues that can be managed infomrally should be noted in the Daily Log, otherwise they should be entered into the Issue register and analysed further.
+> Issues that can be managed informally should be noted in the Daily Log, otherwise they should be entered into the Issue register and analysed further.
 
 > Risks go into the Risk Register, if the issue or risk cannot be resolved within tolerance, escalate to the Project Board via an Exception Report using the "Escalate issues and risks" CS activity.
 
@@ -965,23 +965,23 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
   - Quality standard
   - Within Cost, Time and Effort targets
   - In support of the agreed benefits
-5. That the project manageent team is focused on delivery within the tolerances
+5. That the project management team is focused on delivery within the tolerances
 
 ## Managing Product Delivery (MP)
 
 Purpose "Control the link between the PM and the Team Manager or Managers, by agreeing the requirements for acceptance, execution and delivery"
 
 - Where the Team undertake the work itself
-- The Team Managers can be internat or external
+- The Team Managers can be internal or external
 - The planned products are delivered to expectations and within tolerance
-- Work on products alocated to the team are authorised and agreed
+- Work on products allocated to the team are authorised and agreed
 
 ### MP Process Objectives (5)
 1. That the work on products allocated to the team is authorised and agreed.
-2. That the TEam Managers, team members and Suppliers are clear about:
+2. That the Team Managers, team members and Suppliers are clear about:
   - What will be produced
   - What is the expected effort, cost or timescales
-3. That the planned products are delivered to expectations and withi tolerances
+3. That the planned products are delivered to expectations and within tolerances
 4. That accurate progress information is provided to the PM at an agreed frequency (to ensure expectations are managed).
 
 ### The MP process comprises of 3 activities:
@@ -992,22 +992,22 @@ Purpose "Control the link between the PM and the Team Manager or Managers, by ag
 ### The CS and MP processes interact as the project progresses, for example:
 - The CS activity "Authorise a WP" hands off to the MP activity "Accept a WP"
 - As work progresses in the MP activity "Execute a WP", checkpoint reports will be issued by the Team Manager to the PM who will review them in the CS activity "Review WP status"
-- When the work is completed, the Team Manager will advise the PM by the MP process "Deliver WP", and the PM will consider this in the CS activity "Receive competed WP" and will ensure all the work has been compelted before signing off the WP.
+- When the work is completed, the Team Manager will advise the PM by the MP process "Deliver WP", and the PM will consider this in the CS activity "Receive competed WP" and will ensure all the work has been completed before signing off the WP.
 - Throughout the above interactions, the PM will perform daily monitoring and reporting via 2 activities:
   - Review the Management Stage Status (PM looks at the big picture of the project, looking at what has happened (Actual) vs what was expected (Planned).
   - The PM will then review the next chunk of work and make sure risks and issues are under control, and if necessary triggering corrective action.
-- At a frequency defined by the Project Board, the PM will issue a Highlights Report to inform the board of progress (as described in the Report Highights CS activity).
+- At a frequency defined by the Project Board, the PM will issue a Highlights Report to inform the board of progress (as described in the Report Highlights CS activity).
 
 ## Managing a Stage Boundary (SB)
 
-Purpose "Enables the PM to provide the Project Board with sufficent information to:"
+Purpose "Enables the PM to provide the Project Board with sufficient information to:"
 
 - Review the success of the current Management Stage.
 - Approve the next stage plan.
 - Review the **updated project plan**.
 - Confirm the continued business justification and acceptability of risks.
 - The process is executed at or close to the end of each Management Stage.
-- Exception plans are prepared in SB and submitted to the Projeect Board for approval (in the same way as a Stage Plan).
+- Exception plans are prepared in SB and submitted to the Project Board for approval (in the same way as a Stage Plan).
 - Prepares for the End Stage Assessment with the Project Board
 
 > Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
@@ -1024,7 +1024,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 5. Record any Lessons or information that can help later stages or other projects.
 6. Request authorisation to start the next management stage.
 
-### SB Process Objectives (when dealin with Exceptions)
+### SB Process Objectives (when dealing with Exceptions)
 1. Review and if necessary update the PID, in particular:
 - Customer Quality Expectations
 - Project Approaches
@@ -1034,7 +1034,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 3. Prepare an Exception Plan
 4. Seek approval to replace the project or stage plan for the current stage with the exception plan.
 
-> SB is not used in the final stage of the project **unless** an **exception plan is needed**.  This is because the activities needed to review the whole project and the performance of the final stage are inclued within the **Closing A Project** process.
+> SB is not used in the final stage of the project **unless** an **exception plan is needed**.  This is because the activities needed to review the whole project and the performance of the final stage are included within the **Closing A Project** process.
 
 ### SB Activities
 Normal - Activities
@@ -1055,7 +1055,7 @@ Exception - Outputs
 - End stage report (optional and if requested by the Project Board)
 - Request to approve exception plan
 
-> The Outputs of Manageing a Stage Boundary (SB) feed into the **Directing a Project Process**, in particular the activity **Authorise Stage or Exception Plan**
+> The Outputs of Managing a Stage Boundary (SB) feed into the **Directing a Project Process**, in particular the activity **Authorise Stage or Exception Plan**
 
 ## Closing a Project (CP)
 
@@ -1063,15 +1063,15 @@ If an undertaking is to be managed as a Project, by definition it must be finite
 
 Purpose "In any event the purpose of CP is:"
 - To provide a fixed point at which acceptance for the project is confirmed.
-- To recognise that objectives set out in the original project initiation documentation have been acheived.
-- Or to recognise that any approved changes to these objectives have been acheived.
+- To recognise that objectives set out in the original project initiation documentation have been achieved.
+- Or to recognise that any approved changes to these objectives have been achieved.
 - Or to recognise that the project has nothing more to contribute.
 
 ## CP Key Objectives
 - To verify the users have accepted the projects products.
 - To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
 - To review the project's performance against its baseline.
-- To assess any nenefits that have already been realised:
+- To assess any benefits that have already been realised:
   - And update the **Benefits Management Approach** to include **Benefit Reviews** (after the project has been closed).
 - To ensure that follow-on action recommendations have been made to deal with any open issues and risks.
   - Eg. Risks associated with the use of the product
@@ -1086,5 +1086,3 @@ Purpose "In any event the purpose of CP is:"
 
 
 ## Directing a Project (DP)
-
-
