@@ -1057,9 +1057,34 @@ Exception - Outputs
 
 > The Outputs of Manageing a Stage Boundary (SB) feed into the **Directing a Project Process**, in particular the activity **Authorise Stage or Exception Plan**
 
+## Closing a Project (CP)
+
+If an undertaking is to be managed as a Project, by definition it must be finite and come to a clearly defined end. Otherwise an Operational Management Approach (Ops) might be more appropriate.
+
+Purpose "In any event the purpose of CP is:"
+- To provide a fixed point at which acceptance for the project is confirmed.
+- To recognise that objectives set out in the original project initiation documentation have been acheived.
+- Or to recognise that any approved changes to these objectives have been acheived.
+- Or to recognise that the project has nothing more to contribute.
+
+## CP Key Objectives
+- To verify the users have accepted the projects products.
+- To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
+- To review the project's performance against its baseline.
+- To assess any nenefits that have already been realised:
+  - And update the **Benefits Management Approach** to include **Benefit Reviews** (after the project has been closed).
+- To ensure that follow-on action recommendations have been made to deal with any open issues and risks.
+  - Eg. Risks associated with the use of the product
+  - Or maybe a change that has been deferred until after the project is completed.
+  
 
 
 
 
+
+
+
+
+## Directing a Project (DP)
 
 
