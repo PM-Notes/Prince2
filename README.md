@@ -1012,6 +1012,12 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 
 > Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
 
-### MP Process Objectives (5)
+### SB Process Objectives (Normal course of events)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
 
-
+### SB Process Objectives (in exception)
