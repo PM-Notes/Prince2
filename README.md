@@ -867,7 +867,7 @@ Project Brief
 6. We have planned the work to be done in IP.
 7. We are not wasting time Initiating a Project based on unsound assumptions.
 
-### Activities (6)
+### SU Activities (6)
 1. Appoint the Executive of the Project Board (first) and the PM.
 2. Capture previous lessons (Lessons Log created from previous relevant lessons and subsequent lessons added)
 3. Design and appoint the Project Management Team
@@ -1067,7 +1067,7 @@ Purpose "In any event the purpose of CP is:"
 - Or to recognise that any approved changes to these objectives have been achieved.
 - Or to recognise that the project has nothing more to contribute.
 
-## CP Key Objectives
+### CP Key Objectives
 - To verify the users have accepted the projects products.
 - To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
 - To review the project's performance against its baseline.
@@ -1077,12 +1077,41 @@ Purpose "In any event the purpose of CP is:"
   - Eg. Risks associated with the use of the product
   - Or maybe a change that has been deferred until after the project is completed.
   
+### CP Context
+- Projects should always come to an end.
+- A clear end to a project is always better than a slow drift into use.
 
+CP provides us with an opportunity to:
+  - Recognise that th eoriginal or changes objectives have been met.
+  - Make sure everyone knows the project is finished.
+  - Make sure that BAU takes over:
+    - Or the products form an input into another project with a programme.
+  - Disband the team
+  - Make sure we do not continue to book time and cost to the project.
+  
+Closure activities should be planned as part of the stage plan in the final stage of the project.
+  
+Once the Project Board has confirmed the project closure, the Executive (who is a member of the Board) should notify the Corporate / Programme Management or the Customer that the Project is Closed.
+  
+If for any reason the Project is brought to a premature close, the CP process will still be executed, but some tailoring might be required.
 
-
-
-
-
-
+### CP Activities (5)
+1. Prepare planned closure
+- PM ensures the expected results of the project have been acheived
+- Have we done everything?
+- Has the acceptance criteria been met?
+- Are we in a position to hand over the projects products?
+2. Prepare premature closure
+- PM ensurs an orderly close
+- And anything that can be salvaged has been
+- And whatever remains to be done has been accuratly recorded for Corporate / Programme Management or the Customer.
+3. Handover products
+- The products are handed to the customer and operational environment.
+- And the PM ensures that plans are in place to realise the benefits.
+4. Evaluate the project
+- PM evaluates the project against the PID as baseline at the end of the Initiation stage
+- And creates an **End Project Report** and a **Lessons Report** (outputs)
+5. Recommend project closure
+- Finally, the PM should recommend to the Project Board that the Project is closed using the recommended Project Closure activity.
 
 ## Directing a Project (DP)
