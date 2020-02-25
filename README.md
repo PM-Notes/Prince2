@@ -1034,7 +1034,7 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 3. Prepare an Exception Plan
 4. Seek approval to replace the project or stage plan for the current stage with the exception plan.
 
-> SB is not used in the final stage of the project **unless** an exception plan is needed.  This is because the activities needed to review the whole project and the performance of the final stage are inclued within the **Closing A Project** process.
+> SB is not used in the final stage of the project **unless** an **exception plan is needed**.  This is because the activities needed to review the whole project and the performance of the final stage are inclued within the **Closing A Project** process.
 
 ### SB Activities
 Normal - Activities
