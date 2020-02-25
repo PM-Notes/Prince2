@@ -1013,11 +1013,27 @@ Purpose "Enables the PM to provide the Project Board with sufficent information 
 > Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
 
 ### SB Process Objectives (Normal course of events)
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Assure the Project Board that all products in the current Stage Plan have been completed as defined.
+2. Prepare the Stage Plan for the Next Stage
+3. Review and if necessary update the **PID**, in particular:
+- Business Case
+- Project Plan
+- Project Approach
+- Project Manager Team Structure and Role Descriptions
+4. Provide the information needed for the Project Board to assess the continuing viability of the project.
+5. Record any Lessons or information that can help later stages or other projects.
+6. Request authorisation to start the next management stage.
+
+### SB Process Objectives (in Exception)
+1. Review and if necessary update the PID, in particular:
+- Customer Quality Expectations
+- Project Approaches
+- Controls
+- Role Descriptions
+2. Provide the information needed for the Project Board to assess the continuing viability of the project.
+3. Prepare an Exception Plan
+4. Seek approval to replace the project or stage plan for the current stage with the exception plan.
+
+
 
 ### SB Process Objectives (in exception)
