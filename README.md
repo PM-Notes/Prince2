@@ -1155,7 +1155,7 @@ Purpose "To enable the Project Board to be accountable for the projects success 
     - Project Approach
     - Project Brief
     - Plans for Initiation Stage
-2. Authorise the Project
+2. **Authorise the Project**
 - Approves the Outputs of the Initiation Stage
   - Risk Mgmt Approach
   - Change Control Approach
@@ -1164,7 +1164,7 @@ Purpose "To enable the Project Board to be accountable for the projects success 
 - Makes sure the project has sound foundations before making any major commitments.
 3. Authorise Stage or Exception Plan
 - Approves the plans for the next stage, or if in Exception, the Exception Plan will require approval. 
-4. Give Ad-Hoc direction
+4. **Give Ad-Hoc direction**
 - Covers the informal communication with the Project Board
 - And enables them to respond to reports during a stage
 5. Authorise project closure
@@ -1188,3 +1188,13 @@ Fundamentally, this means:
 
 ### DP Context
 
+- The **Project Board Manages by Exception**
+- And only meet to make decisions at key points
+- There should be no need for any other progress meetings
+- The Corporate / Programme Management or the Customer must maintain regular contact with rthe Project Board throughout the project (this will be dosumented in the Communications Management Approach).
+- The Project Board should maintain a dialog with the PM, providing advice and guidance as necessary.
+- If the Project Board is unable to provide a single view (an answer), then the PM should follow the the wishes of the Executive who has the final say.
+- DP provides the mechanism to the Project Board to ensure there is a continued business justification for the project (ensure the project remains valid).  
+- This is acheived by the Project Board authorising each stage of the project, or an Exception Plan if one is required.
+
+> DP starts at the end of SU and before the start of IP
