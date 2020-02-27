@@ -1070,7 +1070,7 @@ Purpose "In any event the purpose of CP is:"
 ### CP Key Objectives
 - To verify the users have accepted the projects products.
 - To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
-- To review the project's performance against its baseline.
+- To review the project's performance against its **baseline**.
 - To assess any benefits that have already been realised:
   - And update the **Benefits Management Approach** to include **Benefit Reviews** (after the project has been closed).
 - To ensure that follow-on action recommendations have been made to deal with any open issues and risks.
@@ -1114,4 +1114,7 @@ If for any reason the Project is brought to a premature close, the CP process wi
 5. Recommend project closure
 - Finally, the PM should recommend to the Project Board that the Project is closed using the recommended Project Closure activity.
 
+> Closing a project is planned as part if the planning for the final management stage of the project.
+
 ## Directing a Project (DP)
+
