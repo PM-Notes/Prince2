@@ -1070,7 +1070,7 @@ Purpose "In any event the purpose of CP is:"
 ### CP Key Objectives
 - To verify the users have accepted the projects products.
 - To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
-- To review the project's performance against its **baseline**.
+- To **review the project's performance** against its **baseline**.
 - To assess any benefits that have already been realised:
   - And update the **Benefits Management Approach** to include **Benefit Reviews** (after the project has been closed).
 - To ensure that follow-on action recommendations have been made to deal with any open issues and risks.
@@ -1117,4 +1117,53 @@ If for any reason the Project is brought to a premature close, the CP process wi
 > Closing a project is planned as part if the planning for the final management stage of the project.
 
 ## Directing a Project (DP)
+
+Purpose "To enable the Project Board to be accoutable for the projects sucesss by making key decisions and exercising overall control while delegating the projects day-to-day management to the PM"
+
+- DP runs from the end of SU process to the very end and final closedown of the project. 
+- DP is used exclusiverly by the Project Board who should:
+  - Manage by Exception
+  - Monitor through reports provided by the PM
+  - Control via a series of key decision points
+  
+### DP Activities (5)
+1. Authorise initiation
+  - Approves the work undertaken during SU
+    - Business Case
+    - Project Approach
+    - Project Brief
+    - Plans for Initiation Stage
+2. Authorise the Project
+- Approves the Outputs of the Initiation Stage
+  - Risk Mgmt Approach
+  - Change Control Approach
+  - Quality Mgmt Approach
+  - Communications Mgmt Approach
+- Makes sure the project has sound foundations before making any major commitments.
+3. Authorise Stage or Exception Plan
+- Approves the plans for the next stage, or if in Exception, the Exception Plan will require approval. 
+4. Give Ad-Hoc direction
+- Covers the informal communication with rthe Project Board
+- And enables them to respond to reports during a stage
+5. Authorise project closure
+- Enables the Project Board to be sure that the project has been completed to their satisfaction, before disbanding the project team and infrastructure.
+- If the project has been closed prematurely, this process is still compelted to make sure the project is brought to an end in a efficent manner.
+
+### DP Process Objectives
+- There is authority to initiate the project
+- There is authority to deliver the projects products
+- The necessary management and control is provided and the project remains viable.
+- The Corporate / Programme Management or the Customer has an interface to the projects, provided via the Project Board.
+- There is authority to close the project
+- The plans for realising the post-project benefits are managed and reviewed
+
+Fundimenatlly, this means: 
+- The Project Board is the decision making body for the project.
+- Each stage of the project is authorised
+- The PM is supported
+- And there is focus on the projects benefits and their realisation
+
+
+
+
 
