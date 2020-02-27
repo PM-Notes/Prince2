@@ -215,6 +215,7 @@ Exception plans require approval from the *Project Board* to replace a *Stage Pl
 5. *Recommended* Product Flow Diagram (Link between product based planning and activity based planning)
 
 ### Project Product Description
+
 - Purpose of the product
 - Products it consists of
 - Customer quality expectations
@@ -278,7 +279,7 @@ Assessed - Ranking risks in terms of estimated probability, impact and timing or
 Planned for - Identifying suitable answers to risks and assigning owners.
 Controlled - By making sure the responses are implemented, monitored and controlled.
 
-Risk Principles (9)
+### Risk Principles (9)
 
 1. Understanding the project context
 2. Involve the stakeholders
@@ -371,9 +372,11 @@ Risk mgm process guide | Risks are identified, assessed & controlled | Identifie
 # Quality (Theme)
 
 ### Quality 
+
 "The degree to which a set of inherent characteristics of a product, service, process, person, organisation, system or resource fulfils requirements"
 
 ### Quality Management
+
 "The coordinated activities to direct and control an organisation with regard to quality" 
 
 The main aim of quality management is to ensure the products meet business expectations, and enable the desired benefits to be realised.
@@ -387,6 +390,7 @@ Central to quality and we need to ensure we:
   - Implement and track the quality methods used throughout the project
 
 ### Customer Quality Expectations (CQE)
+
 "A statement about the quality expected from the project product, captures in the **Project Product Description**"
 
 Discussed and agreed with the customer in Starting up a project (SU) and should cover:
@@ -509,6 +513,7 @@ Appraisal (where the finished products are assessed for compelteness, testing is
 > The Quality Review Technique is suggested by Prince2 which compliments the use of Product Descriptions. 
 
 ### Quality Reviews
+
 - Check a completed product for errors
 - Can be envoked at any point within a project
 - Carried out in the **Managing Product Delivery** process as the product is compelted
@@ -559,6 +564,7 @@ Results
 - Once the Quality Review is compelte, the product is Approved by the appropriate management person or group.
 
 ### Quality Review Roles 
+
 Chair - Conducts review and **checks the product is ready for review**
 Presenter - Introduces the product to the reviewers and represents the Producers of the product.
 Reviewer - Reviews the product and **checks it against its quality criteria**
@@ -579,9 +585,11 @@ Issue & Change Control =
 - Control
 
 ### Baseline 
+
 "Reference levels against which an entity is monitored and controlled"
 
 ### Issue
+
 "Anything happening during the project which, unless resolved, will result in a change to a baseline product, plan or performance target (inc. time, cost, scope, quality, risk and benefits).
 
 3 Types of Issues which may arise:
@@ -643,6 +651,7 @@ Issues reports
    - Problem/Concern
 
 ### Change Control Procedures
+
 A common and systematic approach for dealing with:
 - Requests For Change
 - Off-specifications
@@ -857,6 +866,7 @@ Project Brief
 - Project Brief is extended and refined during IP to create the PID.
 
 ### Key Objectives of the SU Process (7)
+
 1. There is business justification for moving into IP.
   - Documented in the **Outline Business Case**
 2. All the required authorities exist for Initiating a Project
@@ -868,6 +878,7 @@ Project Brief
 7. We are not wasting time Initiating a Project based on unsound assumptions.
 
 ### SU Activities (6)
+
 1. Appoint the Executive of the Project Board (first) and the PM.
 2. Capture previous lessons (Lessons Log created from previous relevant lessons and subsequent lessons added)
 3. Design and appoint the Project Management Team
@@ -876,6 +887,7 @@ Project Brief
 6. Plan the Initiation Stage (Plan for initiation stage (identify and schedule) to make sure the work taking place in the Initiation Stage is understood as it will take time and consume resources). 
 
 ### Outputs for SU
+
 1. Project Management Team
 2. Project Brief
 3. Project Approach
@@ -884,9 +896,11 @@ Project Brief
 6. Daily Log
 
 ## Initiating a Project
+
 "Establishes solid foundation for the project so that the organisation can underatand the work that needs to be done to deliver the project's products before committing to significant expense"
 
 ### Objectives of IP (10)
+
 1. The reason for doing the project, the benefits expected and the associated risks.
 2. How and when the project's products will be delivered and at what cost.
 3. How the quality required will be achieved.
@@ -957,6 +971,7 @@ Throughout a Management Stage, **Controlling a Stage** is uses the below activit
 > Risks go into the Risk Register, if the issue or risk cannot be resolved within tolerance, escalate to the Project Board via an Exception Report using the "Escalate issues and risks" CS activity.
 
 ### CS Process Objectives (5)
+
 1. The attention is focused on delivering the products
   - Movement away from the direction agreed at the start of the stage is monitored
 2. The risks and issues are kept under control
@@ -977,6 +992,7 @@ Purpose "Control the link between the PM and the Team Manager or Managers, by ag
 - Work on products allocated to the team are authorised and agreed
 
 ### MP Process Objectives (5)
+
 1. That the work on products allocated to the team is authorised and agreed.
 2. That the Team Managers, team members and Suppliers are clear about:
   - What will be produced
@@ -985,11 +1001,13 @@ Purpose "Control the link between the PM and the Team Manager or Managers, by ag
 4. That accurate progress information is provided to the PM at an agreed frequency (to ensure expectations are managed).
 
 ### The MP process comprises of 3 activities:
+
 1. Accept work package
 2. Execute work package
 3. Deliver work package
 
 ### The CS and MP processes interact as the project progresses, for example:
+
 - The CS activity "Authorise a WP" hands off to the MP activity "Accept a WP"
 - As work progresses in the MP activity "Execute a WP", checkpoint reports will be issued by the Team Manager to the PM who will review them in the CS activity "Review WP status"
 - When the work is completed, the Team Manager will advise the PM by the MP process "Deliver WP", and the PM will consider this in the CS activity "Receive competed WP" and will ensure all the work has been completed before signing off the WP.
@@ -1013,6 +1031,7 @@ Purpose "Enables the PM to provide the Project Board with sufficient information
 > Because not all projects go to plan. It is possible the project could request to re-plan the project or stage at SB.
 
 ### SB Process Objectives (normal course of events)
+
 1. Assure the Project Board that all products in the current Stage Plan have been completed as defined.
 2. Prepare the Stage Plan for the Next Stage
 3. Review and if necessary update the **PID**, in particular:
@@ -1037,6 +1056,7 @@ Purpose "Enables the PM to provide the Project Board with sufficient information
 > SB is not used in the final stage of the project **unless** an **exception plan is needed**.  This is because the activities needed to review the whole project and the performance of the final stage are included within the **Closing A Project** process.
 
 ### SB Activities
+
 Normal - Activities
 - Plan the next stage management stage
 - Update the Project Plan
@@ -1068,6 +1088,7 @@ Purpose "In any event the purpose of CP is:"
 - Or to recognise that the project has nothing more to contribute.
 
 ### CP Key Objectives
+
 - To verify the users have accepted the projects products.
 - To ensure that the host site is able to support the products when the project is closed (in other words there is an Operation Support function in-place to maintain the products in BAU).
 - To **review the project's performance** against its **baseline**.
@@ -1082,7 +1103,7 @@ Purpose "In any event the purpose of CP is:"
 - A clear end to a project is always better than a slow drift into use.
 
 CP provides us with an opportunity to:
-  - Recognise that th eoriginal or changes objectives have been met.
+  - Recognise that the original or changes objectives have been met.
   - Make sure everyone knows the project is finished.
   - Make sure that BAU takes over:
     - Or the products form an input into another project with a programme.
@@ -1097,14 +1118,14 @@ If for any reason the Project is brought to a premature close, the CP process wi
 
 ### CP Activities (5)
 1. Prepare planned closure
-- PM ensures the expected results of the project have been acheived
+- PM ensures the expected results of the project have been achieved
 - Have we done everything?
 - Has the acceptance criteria been met?
 - Are we in a position to hand over the projects products?
 2. Prepare premature closure
-- PM ensurs an orderly close
+- PM ensures an orderly close
 - And anything that can be salvaged has been
-- And whatever remains to be done has been accuratly recorded for Corporate / Programme Management or the Customer.
+- And whatever remains to be done has been accurately recorded for Corporate / Programme Management or the Customer.
 3. Handover products
 - The products are handed to the customer and operational environment.
 - And the PM ensures that plans are in place to realise the benefits.
@@ -1118,15 +1139,16 @@ If for any reason the Project is brought to a premature close, the CP process wi
 
 ## Directing a Project (DP)
 
-Purpose "To enable the Project Board to be accoutable for the projects sucesss by making key decisions and exercising overall control while delegating the projects day-to-day management to the PM"
+Purpose "To enable the Project Board to be accountable for the projects success by making key decisions and exercising overall control while delegating the projects day-to-day management to the PM"
 
 - DP runs from the end of SU process to the very end and final closedown of the project. 
-- DP is used exclusiverly by the Project Board who should:
+- DP is used exclusively by the Project Board who should:
   - Manage by Exception
   - Monitor through reports provided by the PM
   - Control via a series of key decision points
   
 ### DP Activities (5)
+
 1. Authorise initiation
   - Approves the work undertaken during SU
     - Business Case
@@ -1143,13 +1165,14 @@ Purpose "To enable the Project Board to be accoutable for the projects sucesss b
 3. Authorise Stage or Exception Plan
 - Approves the plans for the next stage, or if in Exception, the Exception Plan will require approval. 
 4. Give Ad-Hoc direction
-- Covers the informal communication with rthe Project Board
+- Covers the informal communication with the Project Board
 - And enables them to respond to reports during a stage
 5. Authorise project closure
 - Enables the Project Board to be sure that the project has been completed to their satisfaction, before disbanding the project team and infrastructure.
-- If the project has been closed prematurely, this process is still compelted to make sure the project is brought to an end in a efficent manner.
+- If the project has been closed prematurely, this process is still completed to make sure the project is brought to an end in a efficient manner.
 
 ### DP Process Objectives
+
 - There is authority to initiate the project
 - There is authority to deliver the projects products
 - The necessary management and control is provided and the project remains viable.
@@ -1157,13 +1180,11 @@ Purpose "To enable the Project Board to be accoutable for the projects sucesss b
 - There is authority to close the project
 - The plans for realising the post-project benefits are managed and reviewed
 
-Fundimenatlly, this means: 
+Fundamentally, this means: 
 - The Project Board is the decision making body for the project.
 - Each stage of the project is authorised
 - The PM is supported
 - And there is focus on the projects benefits and their realisation
 
-
-
-
+### DP Context
 
