@@ -1191,10 +1191,23 @@ Fundamentally, this means:
 - The **Project Board Manages by Exception**
 - And only meet to make decisions at key points
 - There should be no need for any other progress meetings
-- The Corporate / Programme Management or the Customer must maintain regular contact with rthe Project Board throughout the project (this will be dosumented in the Communications Management Approach).
+- The Corporate / Programme Management or the Customer must maintain regular contact with the Project Board throughout the project (this will be documented in the Communications Management Approach).
 - The Project Board should maintain a dialog with the PM, providing advice and guidance as necessary.
 - If the Project Board is unable to provide a single view (an answer), then the PM should follow the the wishes of the Executive who has the final say.
 - DP provides the mechanism to the Project Board to ensure there is a continued business justification for the project (ensure the project remains valid).  
-- This is acheived by the Project Board authorising each stage of the project, or an Exception Plan if one is required.
+- This is achieved by the Project Board authorising each stage of the project, or an Exception Plan if one is required.
 
 > DP starts at the end of SU and before the start of IP
+
+## Process Model Walkthrough
+
+Project Mandate triggers SU (do we have a viable and worthwhile project?)
+SU (Identify any applicable lessons and appoint roles to form the PM team, prepare Project Product Description and decide how to provide the solution and documenting this in the Project Brief and Project Approach (for submission to the DP process, i.e the Project Board)).
+SU prepare outline Business Case (to ensure we know why we are doing the project).
+SU The work that will be undertaken during the Initiation stage needs to be planned and documented in the initiation Stage Plan (for submission to the DP process, i.e the Project Board).
+When all this is complete, prepare the trigger **Request to Initiate a Project** and submit to the Project Board for approval.
+Once the Project Board has authorised the project initiation, they will issue the trigger **Authority to Initiate a Project** to start the **Initiating a Project** process.
+The PM and team will complete the initiation activities, which will culminate in the assembly of the PID, Next Stage Plan, Lessons Log and Benefits Mgmt Approach.
+The PM then issue a **Request to Deliver a Project** to the Project Board.
+
+
