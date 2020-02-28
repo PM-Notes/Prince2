@@ -1209,7 +1209,21 @@ Fundamentally, this means:
 - Once the Project Board has authorised the project initiation, they will issue the trigger **Authority to Initiate a Project** to start the **Initiating a Project** process.
 - The PM and team will complete the initiation activities, which will culminate in the assembly of the PID, Next Stage Plan, Lessons Log and Benefits Mgmt Approach.
 - The PM then issue a **Request to Deliver a Project** to the Project Board.
-- Assuming the Project Board approves the PID and the Benefits Mgmt Approach, they will issue a **Project Authorisation Notification (DP)** 
-- And one they have approved the Next Stage Plan, the Project Board will issue a **Stage Authorisation** to trigger the second stage of the project, Controlling a Stage (CS).
+- DP Assuming the Project Board approves the PID and the Benefits Mgmt Approach, they will issue a **Project Authorisation Notification** 
+- DP And once they have approved the Next Stage Plan, the Project Board will issue a **Stage Authorisation** to trigger the second stage of the project, Controlling a Stage (CS).
+- From now until the end of the stage, the management of the project will involve cycling through the CS and MP proceses as work packages are authorised and work is undertaken by the team managers and their teams.
+- As the work progresses, the PM will review the progress of the work packages, and the project overall.  Taking corrective ation to keep things on track.
+- CS > DP The PM will issue Highlight Report to the Projet Board, keeping them up-to-date and enabling them to Manage by Exception.
+- MP A key part of the PM's work during this stage (CS), is montoring the status of issues and risks, capturing new ones, examining them and if necessary escalating to the Project Board if they cause a forcast breach of tolerances and put the stage or project into exception.
+- MP As the team managers execute the work package, they will build the products and check their quality.
+- MP > CS As they complete the work packages, they will advise the PM via the triger **Completed Work Package** 
+- This cycle of procustion between CS and MP is eventually broken when towards the end of a stage when CS outputs a trigger **Stage Boundary Aproaching** to the **Managing a stage Boundary** process.
+- If all goes well, **Managing a Boundary** will produce a **Stage PLan** for the next stage and an **End Stage Report**. along with the **Benefits Mgmt Approach** and the updated **PID**, this will provide the Project Board with all that they need to authorise progression to the next stage. 
+- And so the cycle will restart for the following stage.
+- If things are not going according to plan, follwing an Exception Report, the Project Board may issue an **Exception Plan Request** and **Managing a stage Boundary** will produce an **Exception Plan** along with the **End Stage Report**, **Benefits Mgmt Approach** and the updated **PID**.
+- This may lead to the project continuing based on a modified plan (Request to Approve Next Stage Plan, Request to Approve Exception Plan, Exception Plan Approved), or to the Project Board who might decide the bring the project to a premature close if this is the best option.
+
+
+- 
 
 
