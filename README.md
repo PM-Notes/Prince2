@@ -1222,8 +1222,19 @@ Fundamentally, this means:
 - And so the cycle will restart for the following stage.
 - If things are not going according to plan, follwing an Exception Report, the Project Board may issue an **Exception Plan Request** and **Managing a stage Boundary** will produce an **Exception Plan** along with the **End Stage Report**, **Benefits Mgmt Approach** and the updated **PID**.
 - This may lead to the project continuing based on a modified plan (Request to Approve Next Stage Plan, Request to Approve Exception Plan, Exception Plan Approved), or to the Project Board who might decide the bring the project to a premature close if this is the best option.
+- As the work in the final management stage nears completion, a trigger called **Project End Approaching** is issued (CS) and the **Closing a Project** process begins.
+- The products are handed to the Customer and the operational support team.
+- The **Benefits Mgme Approach** is checked to make sure it contains sufficent detail to enable the benefits to be measured and realised.
+- Lessons need to be examined and a **Lessons Report** needs to be included in the **End Project Report** (from CS to DP)
+- Any outstanding work will be recorded as follow-on action recommendations and summaried in the **End Project Report**
+- The PID along with the updated Business Case, Project Plan, End Project Report and Benefits Mgmt Approach will be sent to the Project Board, along with a **Draft Project Closure Notification** 
+- The Project Board will confirm if the project can be closed and will approve and issue reports to interested parties.
+- Finally issuing a **Project Closure Notification**
+- Throughout the life of the project, the Project Board will provide ad-hoc direction, which enables the PB and the PM to communicate formally and informally throughout the project as queries arise and advise is required (starts at the end of SU and continues until the project is completed).
 
+Notice how th process model reflects the Prince2 organisational structure:
+DP - Project Board (Directing)
+CS - Project Manager (main area of activity for the PM)
+MP - Team Manager (responsible for managing product delivery)
 
-- 
-
-
+EOF
