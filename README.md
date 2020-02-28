@@ -1201,13 +1201,15 @@ Fundamentally, this means:
 
 ## Process Model Walkthrough
 
-Project Mandate triggers SU (do we have a viable and worthwhile project?)
-SU (Identify any applicable lessons and appoint roles to form the PM team, prepare Project Product Description and decide how to provide the solution and documenting this in the Project Brief and Project Approach (for submission to the DP process, i.e the Project Board)).
-SU prepare outline Business Case (to ensure we know why we are doing the project).
-SU The work that will be undertaken during the Initiation stage needs to be planned and documented in the initiation Stage Plan (for submission to the DP process, i.e the Project Board).
-When all this is complete, prepare the trigger **Request to Initiate a Project** and submit to the Project Board for approval.
-Once the Project Board has authorised the project initiation, they will issue the trigger **Authority to Initiate a Project** to start the **Initiating a Project** process.
-The PM and team will complete the initiation activities, which will culminate in the assembly of the PID, Next Stage Plan, Lessons Log and Benefits Mgmt Approach.
-The PM then issue a **Request to Deliver a Project** to the Project Board.
+- Project Mandate triggers SU (do we have a viable and worthwhile project?)
+- SU (Identify any applicable lessons and appoint roles to form the PM team, prepare Project Product Description and decide how to provide the solution and documenting this in the Project Brief and Project Approach (for submission to the DP process, i.e the Project Board)).
+- SU prepare outline Business Case (to ensure we know why we are doing the project).
+- SU The work that will be undertaken during the Initiation stage needs to be planned and documented in the initiation Stage - Plan (for submission to the DP process, i.e the Project Board).
+- When all this is complete, prepare the trigger **Request to Initiate a Project** and submit to the Project Board for approval.
+- Once the Project Board has authorised the project initiation, they will issue the trigger **Authority to Initiate a Project** to start the **Initiating a Project** process.
+- The PM and team will complete the initiation activities, which will culminate in the assembly of the PID, Next Stage Plan, Lessons Log and Benefits Mgmt Approach.
+- The PM then issue a **Request to Deliver a Project** to the Project Board.
+- Assuming the Project Board approves the PID and the Benefits Mgmt Approach, they will issue a **Project Authorisation Notification (DP)** 
+- And one they have approved the Next Stage Plan, the Project Board will issue a **Stage Authorisation** to trigger the second stage of the project, Controlling a Stage (CS).
 
 
