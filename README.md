@@ -1,9 +1,12 @@
 # Prince2 :crown:
 Prince2 Foundation Notes
 
+Integrated Elements
+
 - Principles (7)
 - Themes (7) 
 - Proceses (7)
+- Project Environment
 
 # A Project Defined
 
