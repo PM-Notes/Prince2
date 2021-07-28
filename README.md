@@ -1241,6 +1241,3 @@ CS - Project Manager (main area of activity for the PM)
 MP - Team Manager (responsible for managing product delivery)
 
 EOF
-
-Resources
-Practice Exam: https://github.com/NetDevNotes/PRINCE2-Foundation-Cram-to-Pass-the-PRINCE2-Exam-in-7-Days-/blob/master/PRINCE2%20Foundation%20(Practice%20Exam).pdf
